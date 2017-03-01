@@ -1292,12 +1292,12 @@
       </trans-unit>
       <trans-unit id="DDS_ALERT_BOOKINGFAILED_INVALID_ATTRIBUTE_COMBO">
         <source>Sorry, we don’t have any vehicles with options like that, please turn off some options and try again.</source>
-        <target>Pahoittelumme. Sopivaa ajoneuvoa ei ole saatavilla. Vähennä tilauksen vaatimuksia ja yritä uudelleen.</target>
+        <target>Pahoittelumme. Sopivaa ajoneuvoa ei ole saatavilla. Vähennä kyydin vaatimuksia ja yritä uudelleen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_BOOKINGFAILED_PAYMENT_DISABLED">
         <source>Sorry, the selected company isn’t accepting ZoroPay right now . Please select the “Pay in vehicle” option instead.</source>
-        <target>Pahoittelumme. Kyseinen taksiyhtiö ei vastaanota ZoroPay-maksuja. Käytä vaihtoehtoa “Maksa autossa”.</target>
+        <target>Pahoittelumme. Kyseinen yritys ei vastaanota ZoroPay-maksuja. Käytä vaihtoehtoa “Maksa autossa”.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_BOOKINGFAILED_PREAUTH_FAILED">
@@ -1312,7 +1312,7 @@
       </trans-unit>
       <trans-unit id="DDS_ALERT_BOOKINGREGIONFAILED_BODY">
         <source>Address is not within the transportation provider's service area. Please select a different company or address.</source>
-        <target>Osoite ei ole taksiyhtiön toiminta-alueella. Valitse toinen osoite.</target>
+        <target>Osoite ei ole kuljetusten tarjoajan toiminta-alueella. Valitse toinen osoite.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_CALLFAILED_BODY">
@@ -1340,10 +1340,12 @@
       </trans-unit>
       <trans-unit id="DDS_ALERT_LISTFAILED_BODY">
         <source>DDS_ALERT_LISTFAILED_BODY</source>
+        <target>Sinulla ei ole menneitä tilauksia.</target>
         <note>Unable to retrieve your previous bookings.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_LISTFAILED_TITLE">
         <source>DDS_ALERT_LISTFAILED_TITLE</source>
+        <target>Listaus epäonnistui</target>
         <note>Listing Failed</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_LOGINFAILED_BODY">
@@ -1405,7 +1407,7 @@ Ole hyvä ja poista aikaisempi tilaus ennen uuden luomista.</target>
       </trans-unit>
       <trans-unit id="DDS_ALERT_PHONENUMBERTOOSHORT_BODY">
         <source>Phone number cannot be shorter than 10 digits.</source>
-        <target>Puhelinnumero ei voi olla alle 10 numeroa pitkä.</target>
+        <target>Puhelinnumerossa ei voi olla alle 10 numeroa.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_REFRESH_JOB_FAILED_BODY">
@@ -1442,7 +1444,7 @@ Ole hyvä ja poista aikaisempi tilaus ennen uuden luomista.</target>
         <source>Thank you for signing up.
 Now let's get you a ride!</source>
         <target>Kiitos rekisteröitymisestä.
-Nyt haetaan sinulle vapaa taksi!</target>
+Nyt etsitään sinulle kyyti!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_ZOROPAY_FAILED_1">
@@ -1472,7 +1474,7 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_APP_STORE_RATE_ACCEPT">
         <source>Sure</source>
-        <target>Tottahan toki</target>
+        <target>Toki</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_APP_STORE_RATE_DECLINE">
@@ -1517,7 +1519,7 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_CALL_COMPANY">
         <source>Call transportation provider</source>
-        <target>Soita taksiyhtiöön</target>
+        <target>Soita kuljetuksen tarjoajalle</target>
       </trans-unit>
       <trans-unit id="DDS_CANCEL_CHANGED_MIND">
         <source>Decided to walk, take bus etc.</source>
@@ -1526,7 +1528,7 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_CANCEL_GRABBED_CAB">
         <source>Grabbed a ride off the street</source>
-        <target>Sain taksin lennosta</target>
+        <target>Otin kyydin lennosta</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_CANCEL_OTHER">
@@ -1591,12 +1593,12 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_CANCEL_STOLEN_CAB">
         <source>Someone just stole my ride!</source>
-        <target>Joku varasti taksini!</target>
+        <target>Joku varasti kyytini!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_CANCEL_TAKING_TOO_LONG">
         <source>It's taking too long</source>
-        <target>Auton tulo kestää liian kauan</target>
+        <target>Kyytiä ei kuulunut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_CANCEL_TESTING">
@@ -1626,22 +1628,22 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_COMMENT_PLACEHOLDER">
         <source>LEAVE A COMMENT</source>
-        <target>ANNA PALAUTE</target>
+        <target>JÄTÄ PALAUTE</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_COMPANIES_AVAILABLE">
         <source>companies available</source>
-        <target>taksiyhtiötä saatavilla</target>
+        <target>yritystä saatavilla</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_COMPANY_DELETE_PROMPT">
         <source>Do you want to delete the selected options and preferred company for</source>
-        <target>Haluatko poistaa valitut vaatimukset ja toivotun taksiyhtiön</target>
+        <target>Haluatko poistaa valitut vaatimukset ja toivotun yrityksen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_COMPANY_SAVE_PROMPT">
         <source>Do you want to save the selected options and preferred company for</source>
-        <target>Haluatko tallentaa valitut vaatimukset ja toivotun taksiyhtiön</target>
+        <target>Haluatko tallentaa valitut vaatimukset ja toivotun yrityksen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_CREDIT_CARD_REGISTRATION_ALERT_FAILED">
@@ -1672,12 +1674,12 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_Company_Tap_Hold_Set_Preference">
         <source>Tap and hold to set your preferred company and booking options.</source>
-        <target>Pidä sormea painettuna valitaksesi toivotun taksiyhtiön ja vaatimukset.</target>
+        <target>Pidä sormea painettuna valitaksesi toivotun yrityksen ja vaatimukset.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_Company_Tap_Set_Preference">
         <source>Tap a company to set your preferred company and booking options.</source>
-        <target>Napauta valitaksesi toivomasi taksiyhtiön ja vaatimukset.</target>
+        <target>Napauta valitaksesi toivotun yrityksen ja vaatimukset.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_Completed">
@@ -1757,7 +1759,7 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_INCOMPATIBLE_COMPANY">
         <source>Companies that don't match your criteria</source>
-        <target>Taksiyhtiöt jotka eivät sovi hakuehtoihin</target>
+        <target>Yritykset jotka eivät sovi hakuehtoihin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_INTERNETALERT_BODY">
@@ -1796,7 +1798,7 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_JOB_EDIT_TABLE_COMPANY_LIST_TITLE">
         <source>Available companies</source>
-        <target>Saatavilla olevat taksiyhtiöt</target>
+        <target>Saatavilla olevat yritykset</target>
         <note>BOOKING OPTIONS</note>
       </trans-unit>
       <trans-unit id="DDS_JOB_EDIT_TABLE_ESTIMAT_FARE">
@@ -1806,7 +1808,7 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_JOB_ESTIMATE_DISCLAIMER_BODY">
         <source>This is an estimate only and the actual amount charged by the provider could vary.</source>
-        <target>Tämä on vain arvio. Tilauksen lopullinen hinta voi vaihdella.</target>
+        <target>Tämä on vain arvio. Kyydin lopullinen hinta voi vaihdella.</target>
         <note>This is an estimate only and the actual amount charged by the taxi could vary.</note>
       </trans-unit>
       <trans-unit id="DDS_JOB_ESTIMATE_DISCLAIMER_TITLE">
@@ -1866,12 +1868,12 @@ Nyt haetaan sinulle vapaa taksi!</target>
       </trans-unit>
       <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE_ACCEPTED">
         <source>Vehicle is on its way</source>
-        <target>Taksi on matkalla</target>
+        <target>Auto on matkalla</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE_ARRIVED">
         <source>Vehicle has arrived</source>
-        <target>Taksi on saapunut</target>
+        <target>Kyytisi on saapunut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE_CANCELED">
@@ -1912,8 +1914,8 @@ Nyt haetaan sinulle vapaa taksi!</target>
       <trans-unit id="DDS_NO_MATCHING_COMPANY">
         <source>No matching transportation provider.
 Try selecting fewer booking options.</source>
-        <target>Sopivaa taksiyhtiötä ei saatavilla.
-Vähennä tilauksen vaatimuksia.</target>
+        <target>Sopivaa kuljetusten tarjoajaa ei saatavilla.
+Vähennä kyydin vaatimuksia.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_NO_RESULTS_FOUND">
@@ -2076,12 +2078,12 @@ Luo itsellesi profiili</target>
       </trans-unit>
       <trans-unit id="DDS_RIDE_RATING_APP_STORE_PROMPT">
         <source>Would you mind rating Zoro?</source>
-        <target>Haluaisitko arvioida Zoro?</target>
+        <target>Haluaisitko antaa arvion Zorosta?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_RIDE_RATING_COMMENT_IMPROVE_PROMPT">
         <source>How can we improve?</source>
-        <target>Miten voimme kehittyä?</target>
+        <target>Missä voimme parantaa?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_RIDE_RATING_COMPLETE_MESSAGE">
@@ -2126,12 +2128,12 @@ Luo itsellesi profiili</target>
       </trans-unit>
       <trans-unit id="DDS_SELECT_COMPANY">
         <source>DDS_SELECT_COMPANY</source>
-        <target>Valitse taksiyhtiö</target>
+        <target>Valitse yritys</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_SELECT_PREFERRED_COMPANY">
         <source>Select a preferred company</source>
-        <target>Valitse toivottu taksiyhtiö</target>
+        <target>Valitse toivottu yritys</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_SELECT_VALID_ADDRESS">
@@ -2215,7 +2217,7 @@ Luo itsellesi profiili</target>
       </trans-unit>
       <trans-unit id="DDS_TRIPSTATUS_ARRIVED">
         <source>Vehicle has arrived</source>
-        <target>Auto on saapunut</target>
+        <target>Kyytisi on saapunut</target>
         <note>Cab has arrived</note>
       </trans-unit>
       <trans-unit id="DDS_TRIPSTATUS_BOOKED">
@@ -2235,7 +2237,7 @@ Luo itsellesi profiili</target>
       </trans-unit>
       <trans-unit id="DDS_TRIPSTATUS_CAB_ON_ITS_WAY">
         <source>Vehicle is on its way</source>
-        <target>Auto on tulossa</target>
+        <target>Auto on matkalla</target>
         <note>Cab is on its way</note>
       </trans-unit>
       <trans-unit id="DDS_TRIPSTATUS_CANCELLED">
@@ -2246,7 +2248,7 @@ Luo itsellesi profiili</target>
       </trans-unit>
       <trans-unit id="DDS_TRIPSTATUS_COMPLETED_PLEASE_RATE">
         <source>Please rate</source>
-        <target>Anna arvio</target>
+        <target>Arvioi kyytisi</target>
         <note>Please rate</note>
       </trans-unit>
       <trans-unit id="DDS_TRIPSTATUS_DISPATCHED">
