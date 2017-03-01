@@ -1,0 +1,2479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="../BookTaxi/Base.lproj/MainWindow.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Base.lproj/mainStoryboard.storyboard" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="1uc-S3-f1X.text">
+        <source>Zoro is the app that drives a better taxi experience.</source>
+        <target>Zoro edistää kokemusta paremmasta taksipalvelusta.</target>
+        <note>Class = "UILabel"; text = "Zoro is the app that drives a better taxi experience."; ObjectID = "1uc-S3-f1X";</note>
+      </trans-unit>
+      <trans-unit id="3kt-TD-fkg.accessibilityLabel">
+        <source>Pick Me Up Button</source>
+        <target>Nouda-nappi</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Pick Me Up Button"; ObjectID = "3kt-TD-fkg";</note>
+      </trans-unit>
+      <trans-unit id="3kt-TD-fkg.normalTitle">
+        <source>PICK ME UP HERE</source>
+        <target>NOUDA MINUT TÄÄLTÄ</target>
+        <note>Class = "UIButton"; normalTitle = "PICK ME UP HERE"; ObjectID = "3kt-TD-fkg";</note>
+      </trans-unit>
+      <trans-unit id="4ZP-gA-nrb.text">
+        <source>Receive receipts in-app and by email</source>
+        <target>Vastaanota kuitit appiin ja sähköpostiin</target>
+        <note>Class = "UILabel"; text = "Receive receipts in-app and by email"; ObjectID = "4ZP-gA-nrb";</note>
+      </trans-unit>
+      <trans-unit id="42o-qm-dIa.text">
+        <source>Add a credit card to enjoy ZoroPay in-app payment</source>
+        <target>Lisää luottokortti ja anna ZoroPayn hoitaa tilauksen maksu</target>
+        <note>Class = "UILabel"; text = "Add a credit card to enjoy ZoroPay in-app payment"; ObjectID = "42o-qm-dIa";</note>
+      </trans-unit>
+      <trans-unit id="B9D-Fu-2DB.accessibilityLabel">
+        <source>Map View</source>
+        <target>Karttanäkymä</target>
+        <note>Class = "UIView"; accessibilityLabel = "Map View"; ObjectID = "B9D-Fu-2DB";</note>
+      </trans-unit>
+      <trans-unit id="CAq-0Y-Q5A.title">
+        <source>My places</source>
+        <target>Omat paikat</target>
+        <note>Class = "UINavigationItem"; title = "My places"; ObjectID = "CAq-0Y-Q5A";</note>
+      </trans-unit>
+      <trans-unit id="EnI-ux-0FK.title">
+        <source>Preferred companies</source>
+        <target>Toivotut taksiyhtiöt</target>
+        <note>Class = "UINavigationItem"; title = "Preferred companies"; ObjectID = "EnI-ux-0FK";</note>
+      </trans-unit>
+      <trans-unit id="ITY-c4-aAb.text">
+        <source>• </source>
+        <target>• </target>
+        <note>Class = "UILabel"; text = "• "; ObjectID = "ITY-c4-aAb";</note>
+      </trans-unit>
+      <trans-unit id="Ktp-MV-QcU.text">
+        <source>• </source>
+        <target>• </target>
+        <note>Class = "UILabel"; text = "• "; ObjectID = "Ktp-MV-QcU";</note>
+      </trans-unit>
+      <trans-unit id="O9D-Pg-rcj.accessibilityLabel">
+        <source>Pickup Location Label</source>
+        <target>Noutopaikan merkki</target>
+        <note>Class = "UILabel"; accessibilityLabel = "Pickup Location Label"; ObjectID = "O9D-Pg-rcj";</note>
+      </trans-unit>
+      <trans-unit id="UWq-5q-1nY.text">
+        <source>Available with participating cab companies</source>
+        <target>Saatavilla osallistuvissa taksiyhtiöissä</target>
+        <note>Class = "UILabel"; text = "Available with participating cab companies"; ObjectID = "UWq-5q-1nY";</note>
+      </trans-unit>
+      <trans-unit id="Xl5-UK-zbc.accessibilityLabel">
+        <source>Track My Location Button</source>
+        <target>Seuraa sijaintiani -nappi</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Track My Location Button"; ObjectID = "Xl5-UK-zbc";</note>
+      </trans-unit>
+      <trans-unit id="Y92-SF-c3m.title">
+        <source>Payment</source>
+        <target>Maksu</target>
+        <note>Class = "UINavigationItem"; title = "Payment"; ObjectID = "Y92-SF-c3m";</note>
+      </trans-unit>
+      <trans-unit id="ZFo-S4-7sS.text">
+        <source>Arrive at your destination and simply exit the cab</source>
+        <target>Saavuttuasi kohteeseen voit vain nousta autosta</target>
+        <note>Class = "UILabel"; text = "Arrive at your destination and simply exit the cab"; ObjectID = "ZFo-S4-7sS";</note>
+      </trans-unit>
+      <trans-unit id="a8t-WO-Fgw.text">
+        <source>• </source>
+        <target>• </target>
+        <note>Class = "UILabel"; text = "• "; ObjectID = "a8t-WO-Fgw";</note>
+      </trans-unit>
+      <trans-unit id="aXP-ih-9Ie.accessibilityLabel">
+        <source>Drawer Button</source>
+        <target>Laatikko -nappi</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Drawer Button"; ObjectID = "aXP-ih-9Ie";</note>
+      </trans-unit>
+      <trans-unit id="caT-w4-ABU.accessibilityLabel">
+        <source>Pickup Location Pin</source>
+        <target>Noutopaikan nasta</target>
+        <note>Class = "UIImageView"; accessibilityLabel = "Pickup Location Pin"; ObjectID = "caT-w4-ABU";</note>
+      </trans-unit>
+      <trans-unit id="ejN-VH-OSH.text">
+        <source>Get in and out faster with automatic payment</source>
+        <target>Automaattimaksu mahdollistaa nopeamman taksin käytön</target>
+        <note>Class = "UILabel"; text = "Get in and out faster with automatic payment"; ObjectID = "ejN-VH-OSH";</note>
+      </trans-unit>
+      <trans-unit id="hZe-zh-vY6.normalTitle">
+        <source>ADD CARD</source>
+        <target>LISÄÄ KORTTI</target>
+        <note>Class = "UIButton"; normalTitle = "ADD CARD"; ObjectID = "hZe-zh-vY6";</note>
+      </trans-unit>
+      <trans-unit id="hyZ-dI-EKn.text">
+        <source>Zoro works across service areas and with multiple cab companies.</source>
+        <target>Zoro toimii monilla välitysalueilla ja useissa taksiyhtiöissä.</target>
+        <note>Class = "UILabel"; text = "Zoro works across service areas and with multiple cab companies."; ObjectID = "hyZ-dI-EKn";</note>
+      </trans-unit>
+      <trans-unit id="mrD-Kr-VEr.accessibilityLabel">
+        <source>Add To Favourites Button</source>
+        <target>Lisää suosikkeihin -nappi</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Add To Favourites Button"; ObjectID = "mrD-Kr-VEr";</note>
+      </trans-unit>
+      <trans-unit id="sfz-um-0ve.accessibilityLabel">
+        <source>Edit Location Button</source>
+        <target>Muuta sijaintia -nappi</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Edit Location Button"; ObjectID = "sfz-um-0ve";</note>
+      </trans-unit>
+      <trans-unit id="x9x-GP-Gi7.accessibilityLabel">
+        <source>Future Trip Indicator</source>
+        <target>Tulevan tilauksen ilmaisin</target>
+        <note>Class = "UIView"; accessibilityLabel = "Future Trip Indicator"; ObjectID = "x9x-GP-Gi7";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/LocationSuggestionDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/StreetNumberDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="2IW-M9-pfd.normalTitle">
+        <source>CANCEL</source>
+        <target>PERUUTA</target>
+        <note>Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "2IW-M9-pfd";</note>
+      </trans-unit>
+      <trans-unit id="DQX-xI-vpZ.normalTitle">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "DQX-xI-vpZ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLAddressConfirmationDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="I3d-r5-e5e.text">
+        <source>Pickup address</source>
+        <target>Nouto-osoite</target>
+        <note>Class = "UILabel"; text = "Pickup address"; ObjectID = "I3d-r5-e5e";</note>
+      </trans-unit>
+      <trans-unit id="eu6-pw-W75.normalTitle">
+        <source>CONFIRM</source>
+        <target>VAHVISTA</target>
+        <note>Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "eu6-pw-W75";</note>
+      </trans-unit>
+      <trans-unit id="hlV-Ig-FMC.normalTitle">
+        <source>CANCEL</source>
+        <target>PERUUTA</target>
+        <note>Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "hlV-Ig-FMC";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLAttributeCollectionViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLBookSummaryViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CSZ-GL-YF7.text">
+        <source>Options</source>
+        <target>Asetukset</target>
+        <note>Class = "UILabel"; text = "Options"; ObjectID = "CSZ-GL-YF7";</note>
+      </trans-unit>
+      <trans-unit id="EEF-AE-Jva.text">
+        <source>Any type</source>
+        <target>Kaikki tyypit</target>
+        <note>Class = "UILabel"; text = "Any type"; ObjectID = "EEF-AE-Jva";</note>
+      </trans-unit>
+      <trans-unit id="HM8-Zb-YDg.text">
+        <source>Enter destination for fare estimate</source>
+        <target>Anna kohde hinta-arvion laskemiseksi</target>
+        <note>Class = "UILabel"; text = "Enter destination for fare estimate"; ObjectID = "HM8-Zb-YDg";</note>
+      </trans-unit>
+      <trans-unit id="KXn-Ir-bj5.text">
+        <source>Message for driver</source>
+        <target>Viesti kuljettajalle</target>
+        <note>Class = "UILabel"; text = "Message for driver"; ObjectID = "KXn-Ir-bj5";</note>
+      </trans-unit>
+      <trans-unit id="Nef-hA-rC7.text">
+        <source>Now</source>
+        <target>Nyt</target>
+        <note>Class = "UILabel"; text = "Now"; ObjectID = "Nef-hA-rC7";</note>
+      </trans-unit>
+      <trans-unit id="R59-DZ-0RO.text">
+        <source>I'll pay in vehicle</source>
+        <target>Maksan autossa</target>
+        <note>Class = "UILabel"; text = "I'll pay in vehicle"; ObjectID = "R59-DZ-0RO";</note>
+      </trans-unit>
+      <trans-unit id="es3-KW-sR5.text">
+        <source>(ZoroPay unavailable)</source>
+        <target>(ZoroPay ei saatavilla)</target>
+        <note>Class = "UILabel"; text = "(ZoroPay unavailable)"; ObjectID = "es3-KW-sR5";</note>
+      </trans-unit>
+      <trans-unit id="grK-23-2OK.text">
+        <source>Company</source>
+        <target>Taksiyhtiö</target>
+        <note>Class = "UILabel"; text = "Company"; ObjectID = "grK-23-2OK";</note>
+      </trans-unit>
+      <trans-unit id="i15-3B-fjy.normalTitle">
+        <source>BOOK MY TRIP</source>
+        <target>TEE TILAUS</target>
+        <note>Class = "UIButton"; normalTitle = "BOOK MY TRIP"; ObjectID = "i15-3B-fjy";</note>
+      </trans-unit>
+      <trans-unit id="jvb-Hx-V46.normalTitle">
+        <source>SIGN UP</source>
+        <target>REKISTERÖIDY</target>
+        <note>Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "jvb-Hx-V46";</note>
+      </trans-unit>
+      <trans-unit id="qVf-pY-hR1.normalTitle">
+        <source>USE ZOROPAY</source>
+        <target>KÄYTÄ ZOROPAYTA</target>
+        <note>Class = "UIButton"; normalTitle = "USE ZOROPAY"; ObjectID = "qVf-pY-hR1";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLBookingOptionsPickerDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLBookingOptionsTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="AhH-nR-Xd1.text">
+        <source>Label</source>
+        <target>Leima</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "AhH-nR-Xd1";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLBookingTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLCompanyCellAttributeCollectionViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLCompanyListViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLCompanyTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLCompletedJobDetailViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLCompletedJobInfoView.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="3jb-ZR-eFu.text">
+        <source>Charged to</source>
+        <target>Veloitetaan</target>
+        <note>Class = "UILabel"; text = "Charged to"; ObjectID = "3jb-ZR-eFu";</note>
+      </trans-unit>
+      <trans-unit id="ObV-XE-LXT.text">
+        <source>Total</source>
+        <target>Yhteensä</target>
+        <note>Class = "UILabel"; text = "Total"; ObjectID = "ObV-XE-LXT";</note>
+      </trans-unit>
+      <trans-unit id="Uu6-0l-g54.text">
+        <source>Payment</source>
+        <target>Maksu</target>
+        <note>Class = "UILabel"; text = "Payment"; ObjectID = "Uu6-0l-g54";</note>
+      </trans-unit>
+      <trans-unit id="Xsk-QR-Nmp.text">
+        <source>Extra</source>
+        <target>Lisä</target>
+        <note>Class = "UILabel"; text = "Extra"; ObjectID = "Xsk-QR-Nmp";</note>
+      </trans-unit>
+      <trans-unit id="ejX-Vn-3qT.text">
+        <source>Fare</source>
+        <target>Hinta</target>
+        <note>Class = "UILabel"; text = "Fare"; ObjectID = "ejX-Vn-3qT";</note>
+      </trans-unit>
+      <trans-unit id="moU-AE-Cg4.text">
+        <source>Tip</source>
+        <target>Palveluraha</target>
+        <note>Class = "UILabel"; text = "Tip"; ObjectID = "moU-AE-Cg4";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLConfirmationDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLCountryCodeDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLCountryTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLDriverNoteViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLEditPaymentViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLFutureListOptionsDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLHistoryListOptionsDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLInactiveJobDetailViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLInactiveJobInfoView.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLLeftMenuCellTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="OG2-zY-vAG.text">
+        <source>Label</source>
+        <target>Leima</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "OG2-zY-vAG";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLLocationSearchCellTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLLocationSearchViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLLoginSelectionViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Z6Q-Ly-ZxE.highlightedTitle">
+        <source>SIGN UP</source>
+        <target>REKISTERÖIDY</target>
+        <note>Class = "UIButton"; highlightedTitle = "SIGN UP"; ObjectID = "Z6Q-Ly-ZxE";</note>
+      </trans-unit>
+      <trans-unit id="Z6Q-Ly-ZxE.normalTitle">
+        <source>SIGN UP</source>
+        <target>REKISTERÖIDY</target>
+        <note>Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "Z6Q-Ly-ZxE";</note>
+      </trans-unit>
+      <trans-unit id="Z6Q-Ly-ZxE.selectedTitle">
+        <source>SIGN UP</source>
+        <target>REKISTERÖIDY</target>
+        <note>Class = "UIButton"; selectedTitle = "SIGN UP"; ObjectID = "Z6Q-Ly-ZxE";</note>
+      </trans-unit>
+      <trans-unit id="tvk-Xq-yGd.text">
+        <source>or</source>
+        <target>tai</target>
+        <note>Class = "UILabel"; text = "or"; ObjectID = "tvk-Xq-yGd";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLOnboardingFirstViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="2fR-qw-Yfp.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "2fR-qw-Yfp";</note>
+      </trans-unit>
+      <trans-unit id="B2E-8G-1Zo.text">
+        <source>See available cabs on the map</source>
+        <target>Näytä vapaat autot kartalla</target>
+        <note>Class = "UILabel"; text = "See available cabs on the map"; ObjectID = "B2E-8G-1Zo";</note>
+      </trans-unit>
+      <trans-unit id="Eth-Vf-Let.text">
+        <source>Hail a cab immediately or book in advance</source>
+        <target>Löydä taksi heti tai tilaa etukäteen</target>
+        <note>Class = "UILabel"; text = "Hail a cab immediately or book in advance"; ObjectID = "Eth-Vf-Let";</note>
+      </trans-unit>
+      <trans-unit id="Xgx-aR-9Xg.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "Xgx-aR-9Xg";</note>
+      </trans-unit>
+      <trans-unit id="egE-4A-nAs.text">
+        <source>Know your estimated fare</source>
+        <target>Selvitä hinta-arvio</target>
+        <note>Class = "UILabel"; text = "Know your estimated fare"; ObjectID = "egE-4A-nAs";</note>
+      </trans-unit>
+      <trans-unit id="eyk-2q-Zwt.text">
+        <source>Request a cab</source>
+        <target>Tilaa taksi</target>
+        <note>Class = "UILabel"; text = "Request a cab"; ObjectID = "eyk-2q-Zwt";</note>
+      </trans-unit>
+      <trans-unit id="s0I-jF-Xji.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "s0I-jF-Xji";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLOnboardingFourthViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="2nP-eO-qQP.text">
+        <source>This ensures that your payment matches your trip</source>
+        <target>Näin varmistat että tilaus ja maksu liittyvät toisiinsa</target>
+        <note>Class = "UILabel"; text = "This ensures that your payment matches your trip"; ObjectID = "2nP-eO-qQP";</note>
+      </trans-unit>
+      <trans-unit id="4TC-ju-zPJ.text">
+        <source>Arrive at your destination and simply exit the cab</source>
+        <target>Saavuttuasi kohteeseen voit heti nousta autosta</target>
+        <note>Class = "UILabel"; text = "Arrive at your destination and simply exit the cab"; ObjectID = "4TC-ju-zPJ";</note>
+      </trans-unit>
+      <trans-unit id="8hX-nU-EbK.text">
+        <source>Use ZoroPay</source>
+        <target>Käytä ZoroPayta</target>
+        <note>Class = "UILabel"; text = "Use ZoroPay"; ObjectID = "8hX-nU-EbK";</note>
+      </trans-unit>
+      <trans-unit id="9xd-Qf-Y74.text">
+        <source>Available with participating cab companies</source>
+        <target>Käytössä mukana olevissa taksiyhtiöissä</target>
+        <note>Class = "UILabel"; text = "Available with participating cab companies"; ObjectID = "9xd-Qf-Y74";</note>
+      </trans-unit>
+      <trans-unit id="53b-mA-5ky.text">
+        <source>3</source>
+        <target>3</target>
+        <note>Class = "UILabel"; text = "3"; ObjectID = "53b-mA-5ky";</note>
+      </trans-unit>
+      <trans-unit id="BGM-SA-DMR.text">
+        <source>4</source>
+        <target>4</target>
+        <note>Class = "UILabel"; text = "4"; ObjectID = "BGM-SA-DMR";</note>
+      </trans-unit>
+      <trans-unit id="BmX-yg-Vgq.text">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "BmX-yg-Vgq";</note>
+      </trans-unit>
+      <trans-unit id="GL3-KS-LOx.text">
+        <source>Receive a ZoroCode each time you use ZoroPay</source>
+        <target>Vastaanota ZoroKoodi aina kun käytät ZoroPayta</target>
+        <note>Class = "UILabel"; text = "Receive a ZoroCode each time you use ZoroPay"; ObjectID = "GL3-KS-LOx";</note>
+      </trans-unit>
+      <trans-unit id="RXk-Mr-kRF.text">
+        <source>2</source>
+        <target>2</target>
+        <note>Class = "UILabel"; text = "2"; ObjectID = "RXk-Mr-kRF";</note>
+      </trans-unit>
+      <trans-unit id="T3X-Ca-dLG.text">
+        <source>Give the driver your ZoroCode when entering the cab</source>
+        <target>Anna ZoroKoodi kuljettajallesi kun nouset taksiin</target>
+        <note>Class = "UILabel"; text = "Give the driver your ZoroCode when entering the cab"; ObjectID = "T3X-Ca-dLG";</note>
+      </trans-unit>
+      <trans-unit id="YrM-F9-ZWV.text">
+        <source>Register your credit card for automatic payment</source>
+        <target>Lisää luottokorttisi tiedot automaattista maksua varten</target>
+        <note>Class = "UILabel"; text = "Register your credit card for automatic payment"; ObjectID = "YrM-F9-ZWV";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLOnboardingRootViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="ckY-af-3IS.normalTitle">
+        <source>SIGN UP</source>
+        <target>REKISTERÖIDY</target>
+        <note>Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "ckY-af-3IS";</note>
+      </trans-unit>
+      <trans-unit id="uV7-Uk-fO5.normalTitle">
+        <source>DONE</source>
+        <target>VALMIS</target>
+        <note>Class = "UIButton"; normalTitle = "DONE"; ObjectID = "uV7-Uk-fO5";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLOnboardingSecondViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="HIi-1U-tAu.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "HIi-1U-tAu";</note>
+      </trans-unit>
+      <trans-unit id="iav-NQ-B38.text">
+        <source>Select the date and time to be picked up</source>
+        <target>Määrittele noutopäivä ja -aika</target>
+        <note>Class = "UILabel"; text = "Select the date and time to be picked up"; ObjectID = "iav-NQ-B38";</note>
+      </trans-unit>
+      <trans-unit id="ibU-9M-qWV.text">
+        <source>Choose the vehicle options</source>
+        <target>Määrittele auton varusteet</target>
+        <note>Class = "UILabel"; text = "Choose the vehicle options"; ObjectID = "ibU-9M-qWV";</note>
+      </trans-unit>
+      <trans-unit id="ji6-tb-cjF.text">
+        <source>Select the type of vehicle</source>
+        <target>Määrittele auton tyyppi</target>
+        <note>Class = "UILabel"; text = "Select the type of vehicle"; ObjectID = "ji6-tb-cjF";</note>
+      </trans-unit>
+      <trans-unit id="rO7-SI-NAg.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "rO7-SI-NAg";</note>
+      </trans-unit>
+      <trans-unit id="v7Q-j4-3Fs.text">
+        <source>Choose your options</source>
+        <target>Valitse varusteet</target>
+        <note>Class = "UILabel"; text = "Choose your options"; ObjectID = "v7Q-j4-3Fs";</note>
+      </trans-unit>
+      <trans-unit id="xnV-zI-ZuC.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "xnV-zI-ZuC";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLOnboardingThirdViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="I2u-Us-xEH.text">
+        <source>Pay your way</source>
+        <target>Maksa kuten haluat</target>
+        <note>Class = "UILabel"; text = "Pay your way"; ObjectID = "I2u-Us-xEH";</note>
+      </trans-unit>
+      <trans-unit id="Ohv-5A-1z8.text">
+        <source>Get email receipts with ZoroPay</source>
+        <target>Vastaanota sähköpostikuitit ZoroPaylla</target>
+        <note>Class = "UILabel"; text = "Get email receipts with ZoroPay"; ObjectID = "Ohv-5A-1z8";</note>
+      </trans-unit>
+      <trans-unit id="Q87-Z0-Iw8.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "Q87-Z0-Iw8";</note>
+      </trans-unit>
+      <trans-unit id="WsD-Ty-I7d.text">
+        <source>Pay in the cab with cash or card</source>
+        <target>Maksa taksissa joko kortilla tai käteisellä</target>
+        <note>Class = "UILabel"; text = "Pay in the cab with cash or card"; ObjectID = "WsD-Ty-I7d";</note>
+      </trans-unit>
+      <trans-unit id="h2a-m4-67M.text">
+        <source>Pay in the app with ZoroPay</source>
+        <target>Maksa sovelluksessa ZoroPaylla</target>
+        <note>Class = "UILabel"; text = "Pay in the app with ZoroPay"; ObjectID = "h2a-m4-67M";</note>
+      </trans-unit>
+      <trans-unit id="jyI-Dn-jLE.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "jyI-Dn-jLE";</note>
+      </trans-unit>
+      <trans-unit id="nJx-XT-By2.text">
+        <source>•</source>
+        <target>•</target>
+        <note>Class = "UILabel"; text = "•"; ObjectID = "nJx-XT-By2";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPaymentMethodDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPaymentTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPlacesEditDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPlacesEditNameDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="72o-cS-16B.normalTitle">
+        <source>CONFIRM</source>
+        <target>VAHVISTA</target>
+        <note>Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "72o-cS-16B";</note>
+      </trans-unit>
+      <trans-unit id="nN5-Ge-s3a.text">
+        <source>Change name</source>
+        <target>Vaihda nimi</target>
+        <note>Class = "UILabel"; text = "Change name"; ObjectID = "nN5-Ge-s3a";</note>
+      </trans-unit>
+      <trans-unit id="oJ5-Va-n0A.normalTitle">
+        <source>CANCEL</source>
+        <target>PERUUTA</target>
+        <note>Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "oJ5-Va-n0A";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPlacesTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPreferenceLocationDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPreferenceSelectionViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="7XX-1g-WjK.text">
+        <source>Province/State</source>
+        <target>Provinssi/Osavaltio</target>
+        <note>Class = "UILabel"; text = "Province/State"; ObjectID = "7XX-1g-WjK";</note>
+      </trans-unit>
+      <trans-unit id="ROG-4a-b0x.text">
+        <source>City</source>
+        <target>Kaupunki</target>
+        <note>Class = "UILabel"; text = "City"; ObjectID = "ROG-4a-b0x";</note>
+      </trans-unit>
+      <trans-unit id="SA7-sv-iKs.text">
+        <source>Country</source>
+        <target>Maa</target>
+        <note>Class = "UILabel"; text = "Country"; ObjectID = "SA7-sv-iKs";</note>
+      </trans-unit>
+      <trans-unit id="jJz-Ek-p9Z.text">
+        <source>Preferred company &amp; options</source>
+        <target>Toivottu taksiyhtiö &amp; vaatimukset</target>
+        <note>Class = "UILabel"; text = "Preferred company &amp; options"; ObjectID = "jJz-Ek-p9Z";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPreferencesTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="QQN-NM-UWm.text">
+        <source>|</source>
+        <note>Class = "UILabel"; text = "|"; ObjectID = "QQN-NM-UWm";</note>
+      </trans-unit>
+      <trans-unit id="dUM-RW-sxJ.text">
+        <source>|</source>
+        <note>Class = "UILabel"; text = "|"; ObjectID = "dUM-RW-sxJ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLPromoCodeDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="8Hx-Nd-l8o.normalTitle">
+        <source>CONFIRM</source>
+        <target>VAHVISTA</target>
+        <note>Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "8Hx-Nd-l8o";</note>
+      </trans-unit>
+      <trans-unit id="bSZ-Dl-3JS.text">
+        <source>Promo code</source>
+        <target>Tarjouskoodi</target>
+        <note>Class = "UILabel"; text = "Promo code"; ObjectID = "bSZ-Dl-3JS";</note>
+      </trans-unit>
+      <trans-unit id="lXJ-Ko-gJ2.normalTitle">
+        <source>NO CODE</source>
+        <target>EI KOODIA</target>
+        <note>Class = "UIButton"; normalTitle = "NO CODE"; ObjectID = "lXJ-Ko-gJ2";</note>
+      </trans-unit>
+      <trans-unit id="oIe-JW-nlc.text">
+        <source>Enter your promo code here if you have one.</source>
+        <target>Syötä tähän mahdollinen tarjouskoodi.</target>
+        <note>Class = "UILabel"; text = "Enter your promo code here if you have one."; ObjectID = "oIe-JW-nlc";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLRegisterCCTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="9rY-VO-ifK.text">
+        <source>Label</source>
+        <target>Leima</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "9rY-VO-ifK";</note>
+      </trans-unit>
+      <trans-unit id="DeX-Sf-A5V.text">
+        <source>Label</source>
+        <target>Leima</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "DeX-Sf-A5V";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLRegisterInfoTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="5OO-Ws-JJ7.placeholder">
+        <source>Name</source>
+        <target>Nimi</target>
+        <note>Class = "UITextField"; placeholder = "Name"; ObjectID = "5OO-Ws-JJ7";</note>
+      </trans-unit>
+      <trans-unit id="MQz-0i-fLW.placeholder">
+        <source>Email</source>
+        <target>Sähköposti</target>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "MQz-0i-fLW";</note>
+      </trans-unit>
+      <trans-unit id="ckx-7w-lH0.placeholder">
+        <source>Mobile Phone</source>
+        <target>Puhelinnumero</target>
+        <note>Class = "UITextField"; placeholder = "Mobile Phone"; ObjectID = "ckx-7w-lH0";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLRegisterSectionHeaderView.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLRegisterTipTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="2XJ-s7-9Fx.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "2XJ-s7-9Fx";</note>
+      </trans-unit>
+      <trans-unit id="8CE-j8-5xN.normalTitle">
+        <source>−</source>
+        <target>−</target>
+        <note>Class = "UIButton"; normalTitle = "−"; ObjectID = "8CE-j8-5xN";</note>
+      </trans-unit>
+      <trans-unit id="9cI-p4-QLZ.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "9cI-p4-QLZ";</note>
+      </trans-unit>
+      <trans-unit id="279-sb-Zoa.text">
+        <source>Minimum tip allows you to set the minimum amount you will tip, unless you modify it during your trip.</source>
+        <target>Voit lisäksi määritellä palvelumaksun vähimmäismäärän, joka lisätään kaikkiin tilauksiisi. Tätä voi myös muuttaa tilauskohtaisesti</target>
+        <note>Class = "UILabel"; text = "Minimum tip allows you to set the minimum amount you will tip, unless you modify it during your trip."; ObjectID = "279-sb-Zoa";</note>
+      </trans-unit>
+      <trans-unit id="A7F-xP-gop.text">
+        <source>This tip is automatically applied to all of your trips, unless you modify it during each trip.</source>
+        <target>Palvelumaksu lisätään automaattisesti kaikkiin tilauksiisi. Voit muuttaa sitä myös tilauskohtaisesti.</target>
+        <note>Class = "UILabel"; text = "This tip is automatically applied to all of your trips, unless you modify it during each trip."; ObjectID = "A7F-xP-gop";</note>
+      </trans-unit>
+      <trans-unit id="Frb-TO-k0u.normalTitle">
+        <source>+</source>
+        <target>+</target>
+        <note>Class = "UIButton"; normalTitle = "+"; ObjectID = "Frb-TO-k0u";</note>
+      </trans-unit>
+      <trans-unit id="QUP-5g-dDs.text">
+        <source>Percentage</source>
+        <target>Prosentti</target>
+        <note>Class = "UILabel"; text = "Percentage"; ObjectID = "QUP-5g-dDs";</note>
+      </trans-unit>
+      <trans-unit id="boB-2G-agr.text">
+        <source>Minimum tip</source>
+        <target>Vähintään</target>
+        <note>Class = "UILabel"; text = "Minimum tip"; ObjectID = "boB-2G-agr";</note>
+      </trans-unit>
+      <trans-unit id="wuA-fD-l8T.normalTitle">
+        <source>+</source>
+        <target>+</target>
+        <note>Class = "UIButton"; normalTitle = "+"; ObjectID = "wuA-fD-l8T";</note>
+      </trans-unit>
+      <trans-unit id="yXY-Us-Dxx.normalTitle">
+        <source>−</source>
+        <target>−</target>
+        <note>Class = "UIButton"; normalTitle = "−"; ObjectID = "yXY-Us-Dxx";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLRegisterViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="EyK-iA-OLF.text">
+        <source>• </source>
+        <target>• </target>
+        <note>Class = "UILabel"; text = "• "; ObjectID = "EyK-iA-OLF";</note>
+      </trans-unit>
+      <trans-unit id="F4u-Jq-3eg.normalTitle">
+        <source>NEXT</source>
+        <target>SEURAAVA</target>
+        <note>Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "F4u-Jq-3eg";</note>
+      </trans-unit>
+      <trans-unit id="KCL-lJ-5SR.text">
+        <source>Add a credit card to enjoy ZoroPay in-app payment</source>
+        <target>Lisää luottokortti ja nauti sovelluksessa maksamisesta ZoroPaylla</target>
+        <note>Class = "UILabel"; text = "Add a credit card to enjoy ZoroPay in-app payment"; ObjectID = "KCL-lJ-5SR";</note>
+      </trans-unit>
+      <trans-unit id="NgB-WE-TSb.text">
+        <source>Get in and out faster with automatic payment</source>
+        <target>Automaattinen maksu tekee taksin käytöstä nopeampaa</target>
+        <note>Class = "UILabel"; text = "Get in and out faster with automatic payment"; ObjectID = "NgB-WE-TSb";</note>
+      </trans-unit>
+      <trans-unit id="W0p-dK-23q.text">
+        <source>Available with participating cab companies</source>
+        <target>Saatavilla osallistuvissa taksiyhtiöissä</target>
+        <note>Class = "UILabel"; text = "Available with participating cab companies"; ObjectID = "W0p-dK-23q";</note>
+      </trans-unit>
+      <trans-unit id="X5n-wc-9aL.text">
+        <source>Arrive at your destination and simply exit the cab</source>
+        <target>Voit poistua taksista heti kun olet perillä</target>
+        <note>Class = "UILabel"; text = "Arrive at your destination and simply exit the cab"; ObjectID = "X5n-wc-9aL";</note>
+      </trans-unit>
+      <trans-unit id="Xua-N5-pF1.normalTitle">
+        <source>ADD CARD</source>
+        <target>LISÄÄ KORTTI</target>
+        <note>Class = "UIButton"; normalTitle = "ADD CARD"; ObjectID = "Xua-N5-pF1";</note>
+      </trans-unit>
+      <trans-unit id="Zjj-sT-ymp.text">
+        <source>Receive receipts in-app and by email</source>
+        <target>Vastaanota kuitti sovellukseen ja sähköpostiin</target>
+        <note>Class = "UILabel"; text = "Receive receipts in-app and by email"; ObjectID = "Zjj-sT-ymp";</note>
+      </trans-unit>
+      <trans-unit id="dVF-2x-LnR.text">
+        <source>• </source>
+        <target>• </target>
+        <note>Class = "UILabel"; text = "• "; ObjectID = "dVF-2x-LnR";</note>
+      </trans-unit>
+      <trans-unit id="fpX-ak-3As.normalTitle">
+        <source>BACK</source>
+        <target>TAKAISIN</target>
+        <note>Class = "UIButton"; normalTitle = "BACK"; ObjectID = "fpX-ak-3As";</note>
+      </trans-unit>
+      <trans-unit id="j5G-a3-lrW.text">
+        <source>• </source>
+        <target>• </target>
+        <note>Class = "UILabel"; text = "• "; ObjectID = "j5G-a3-lrW";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLSaveFavouritesDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLSearchTableViewCell.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLTipModifierDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="9k8-lW-CPF.text">
+        <source>This change is only applied to your current trip.</source>
+        <note>Class = "UILabel"; text = "This change is only applied to your current trip."; ObjectID = "9k8-lW-CPF";</note>
+      </trans-unit>
+      <trans-unit id="VcL-Ts-u8g.text">
+        <source>Percentage</source>
+        <note>Class = "UILabel"; text = "Percentage"; ObjectID = "VcL-Ts-u8g";</note>
+      </trans-unit>
+      <trans-unit id="XFn-ND-BOL.text">
+        <source>%</source>
+        <note>Class = "UILabel"; text = "%"; ObjectID = "XFn-ND-BOL";</note>
+      </trans-unit>
+      <trans-unit id="Z2j-kQ-e5I.normalTitle">
+        <source>CANCEL</source>
+        <note>Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Z2j-kQ-e5I";</note>
+      </trans-unit>
+      <trans-unit id="aDe-zH-Gb1.normalTitle">
+        <source>CONFIRM</source>
+        <note>Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "aDe-zH-Gb1";</note>
+      </trans-unit>
+      <trans-unit id="egf-Co-dSF.text">
+        <source>Change driver tip</source>
+        <note>Class = "UILabel"; text = "Change driver tip"; ObjectID = "egf-Co-dSF";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLTrackDetailViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="1Du-S8-gzw.normalTitle">
+        <source>?</source>
+        <target>?</target>
+        <note>Class = "UIButton"; normalTitle = "?"; ObjectID = "1Du-S8-gzw";</note>
+      </trans-unit>
+      <trans-unit id="7KF-Z2-UY8.text">
+        <source>is your ZoroCode</source>
+        <target>on sinun ZoroKoodisi</target>
+        <note>Class = "UILabel"; text = "is your ZoroCode"; ObjectID = "7KF-Z2-UY8";</note>
+      </trans-unit>
+      <trans-unit id="YH0-uH-FNL.text">
+        <source>ZoroCode accepted</source>
+        <target>ZoroKoodi hyväksytty</target>
+        <note>Class = "UILabel"; text = "ZoroCode accepted"; ObjectID = "YH0-uH-FNL";</note>
+      </trans-unit>
+      <trans-unit id="gIn-c1-jDl.normalTitle">
+        <source>CANCEL TRIP</source>
+        <target>PERUUTA TILAUS</target>
+        <note>Class = "UIButton"; normalTitle = "CANCEL TRIP"; ObjectID = "gIn-c1-jDl";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLTripInfoHeaderView.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLTripInfoView.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="6At-Mh-XL7.highlightedTitle">
+        <source>TEXT</source>
+        <target>TEKSTI</target>
+        <note>Class = "UIButton"; highlightedTitle = "TEXT"; ObjectID = "6At-Mh-XL7";</note>
+      </trans-unit>
+      <trans-unit id="moT-1h-mdU.text">
+        <source>More</source>
+        <target>Lisää</target>
+        <note>Class = "UILabel"; text = "More"; ObjectID = "moT-1h-mdU";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLVehicleTypePickerDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLVerifySMSViewController.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="4kz-Bd-TRz.normalTitle">
+        <source>RESEND CODE</source>
+        <target>LÄHETÄ KOODI</target>
+        <note>Class = "UIButton"; normalTitle = "RESEND CODE"; ObjectID = "4kz-Bd-TRz";</note>
+      </trans-unit>
+      <trans-unit id="IXH-Sn-2lT.normalTitle">
+        <source>VERIFY</source>
+        <target>VAHVISTA</target>
+        <note>Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "IXH-Sn-2lT";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLWelcomeDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="6MJ-au-UxZ.normalTitle">
+        <source>DECLINE</source>
+        <target>HYLKÄÄ</target>
+        <note>Class = "UIButton"; normalTitle = "DECLINE"; ObjectID = "6MJ-au-UxZ";</note>
+      </trans-unit>
+      <trans-unit id="8h9-74-fla.normalTitle">
+        <source>AGREE</source>
+        <target>HYVÄKSY</target>
+        <note>Class = "UIButton"; normalTitle = "AGREE"; ObjectID = "8h9-74-fla";</note>
+      </trans-unit>
+      <trans-unit id="Jiy-bI-pb0.text">
+        <source>Terms and Conditions</source>
+        <target>Käyttöehdot</target>
+        <note>Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "Jiy-bI-pb0";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLZoroPayCodeView.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="NDf-Mn-yQn.normalTitle">
+        <source>TRACK</source>
+        <note>Class = "UIButton"; normalTitle = "TRACK"; ObjectID = "NDf-Mn-yQn";</note>
+      </trans-unit>
+      <trans-unit id="UFE-jc-DIx.text">
+        <source>ZoroCode</source>
+        <note>Class = "UILabel"; text = "ZoroCode"; ObjectID = "UFE-jc-DIx";</note>
+      </trans-unit>
+      <trans-unit id="lfI-Q3-Kgp.normalTitle">
+        <source>?</source>
+        <note>Class = "UIButton"; normalTitle = "?"; ObjectID = "lfI-Q3-Kgp";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLZoroPayNotificationDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="D2H-nE-cbN.normalTitle">
+        <source>DISMISS</source>
+        <target>HYLKÄÄ</target>
+        <note>Class = "UIButton"; normalTitle = "DISMISS"; ObjectID = "D2H-nE-cbN";</note>
+      </trans-unit>
+      <trans-unit id="K7H-gS-pT1.text">
+        <source>Label</source>
+        <target>Leima</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "K7H-gS-pT1";</note>
+      </trans-unit>
+      <trans-unit id="LQP-yn-8wX.normalTitle">
+        <source>VIEW DETAILS</source>
+        <target>NÄYTÄ TIEDOT</target>
+        <note>Class = "UIButton"; normalTitle = "VIEW DETAILS"; ObjectID = "LQP-yn-8wX";</note>
+      </trans-unit>
+      <trans-unit id="abY-ev-tST.text">
+        <source>Label</source>
+        <target>Leima</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "abY-ev-tST";</note>
+      </trans-unit>
+      <trans-unit id="qOW-H9-9UW.text">
+        <source>Label</source>
+        <target>Leima</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "qOW-H9-9UW";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TLlockoutScreenDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="1Nc-Q0-9yI.text">
+        <source>Your account has been locked at the request from one of our transportation partners.</source>
+        <target>Tilisi on lukittu kuljetuskumppanimme pyynnöstä.</target>
+        <note>Class = "UITextView"; text = "Your account has been locked at the request from one of our transportation partners."; ObjectID = "1Nc-Q0-9yI";</note>
+      </trans-unit>
+      <trans-unit id="6cZ-Iz-heT.text">
+        <source>Account locked</source>
+        <target>Tili lukittu</target>
+        <note>Class = "UILabel"; text = "Account locked"; ObjectID = "6cZ-Iz-heT";</note>
+      </trans-unit>
+      <trans-unit id="HVS-2O-SP5.normalTitle">
+        <source>DISMISS</source>
+        <target>HYLKÄÄ</target>
+        <note>Class = "UIButton"; normalTitle = "DISMISS"; ObjectID = "HVS-2O-SP5";</note>
+      </trans-unit>
+      <trans-unit id="OJl-wf-3Ko.text">
+        <source>If you need assistance in resolving this issue, please contact us.</source>
+        <target>Ota yhteyttä jos tarvitset apua tämän asian kanssa.</target>
+        <note>Class = "UITextView"; text = "If you need assistance in resolving this issue, please contact us."; ObjectID = "OJl-wf-3Ko";</note>
+      </trans-unit>
+      <trans-unit id="jiN-a7-Yo9.normalTitle">
+        <source>EMAIL US</source>
+        <target>LÄHETÄ SÄHKÖPOSTIA</target>
+        <note>Class = "UIButton"; normalTitle = "EMAIL US"; ObjectID = "jiN-a7-Yo9";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/Classes/Base.lproj/TimePickerDialog.xib" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="MXM-bj-LfT.text">
+        <source>Later</source>
+        <target>Myöhemmin</target>
+        <note>Class = "UILabel"; text = "Later"; ObjectID = "MXM-bj-LfT";</note>
+      </trans-unit>
+      <trans-unit id="WOH-J9-Nh9.text">
+        <source>Now</source>
+        <target>Nyt</target>
+        <note>Class = "UILabel"; text = "Now"; ObjectID = "WOH-J9-Nh9";</note>
+      </trans-unit>
+      <trans-unit id="mhx-5F-nQf.normalTitle">
+        <source>CANCEL</source>
+        <target>PERUUTA</target>
+        <note>Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "mhx-5F-nQf";</note>
+      </trans-unit>
+      <trans-unit id="qzy-lc-pdg.normalTitle">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "qzy-lc-pdg";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../BookTaxi/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="DDS_ABANDON_REGISTRATION_MSG">
+        <source>Abandon Registration?</source>
+        <target>Keskeytä rekisteröinti?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ACTIVE_BOOKINGS">
+        <source>Future trips</source>
+        <target>Tulevat tilaukset</target>
+        <note>ACTIVE BOOKINGS</note>
+      </trans-unit>
+      <trans-unit id="DDS_ADDRESS_SAVE_ERROR">
+        <source>Address cannot be saved, please try again</source>
+        <target>Osoitetta ei voitu tallentaa, yritä uudelleen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ADDRESS_SAVE_SUCCESS">
+        <source>Address saved</source>
+        <target>Osoite tallennettu</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ABOUT_BUTTON_CALL">
+        <source>CALL</source>
+        <target>SOITA</target>
+        <note>Call</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ADDRESSLENGTH_TITLE">
+        <source>Invalid Address</source>
+        <target>Osoite ei kelpaa</target>
+        <note>Invalid Address</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ADDRESSRANGE_STREETNUMBER">
+        <source>Enter a street number between:</source>
+        <target>Syötä osoitenumero väliltä:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGCANCELLED_BODY">
+        <source>You have canceled your trip</source>
+        <target>Olet peruuttanut tilauksesi</target>
+        <note>You have canceled your trip</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGCANCELLED_ERROR_BODY">
+        <source>The job cannot be canceled at the moment, please try again later.</source>
+        <target>Tilausta ei voi perua juuri nyt, yritä myöhemmin uudelleen.</target>
+        <note>The job cannot be canceled at the moment, please try again later.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGCANCELLED_ERROR_BODY_IN_SERVICE">
+        <source>The job can no longer be canceled.</source>
+        <target>Tilausta ei voi enää perua.</target>
+        <note>The job can no longer be canceled.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGCANCELLED_TITLE">
+        <source>Trip Canceled</source>
+        <target>Tilaus peruttu</target>
+        <note>Trip Canceled</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILEDACCOUNTGENERICERROR_BODY">
+        <source>Problem with company account. Please turn off the "Book by Account" option, and try again.</source>
+        <target>Yrityksen tilissä on ongelma. Ota "Maksu tililtä" vaihtoehto pois päältä ja yritä uudelleen.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILEDACCOUNTINVALID_BODY">
+        <source>Invalid company account number. Do you want to delete the company account?</source>
+        <target>Yrityksen tilin numero ei kelpaa. Haluatko poistaa yrityksen tilin?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILEDACC_BODY">
+        <source>DDS_ALERT_BOOKINGFAILEDACC_BODY</source>
+        <target>PIN-koodi ei kelpaa. Vaihda se ja yritä uudelleen.</target>
+        <note>Invalid PIN Number. Please try again.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILEDAWAITINGPHONENUMBER_BODY">
+        <source>Please verify your phone number again. Sorry for the inconvenience.</source>
+        <target>Vahvista puhelinnumerosi uudelleen. Pahoittelemme häiriötä.</target>
+        <note>Please verify your phone number again. Sorry for the inconvenience.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILEDUNKNOWNDEVICE_BODY">
+        <source>It seems we don't have your information on file. Please verify your registration again. Sorry for the inconvenience.</source>
+        <target>Sinun tietosi näyttävät puuttuvan palvelusta. Vahvista rekisteröitymisesi uudelleen. Pahoittelemme häiriötä.</target>
+        <note>It seems we don't have your information on file. Please verify your registration again. Sorry for the inconvenience.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILED_BODY">
+        <source>An error occurred while submitting your booking request. Please call [company phone].</source>
+        <target>Tilauksesi lähetyksessä tapahtui virhe. Soita [company phone].</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILED_CC_BLACKLISTED">
+        <source>Sorry, your registered credit card has been flagged for fraudulent activity. Please register another card.</source>
+        <target>Pahoittelumme. Käyttämäsi luottokortti on hylätty huijausyrityksen vuoksi. Rekisteröi toinen kortti.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILED_INVALID_ATTRIBUTE_COMBO">
+        <source>Sorry, we don’t have any cars with options like that, please turn off some options and try again.</source>
+        <target>Pahoittelumme. Sopivaa ajoneuvoa ei ole saatavilla. Vähennä tilauksen vaatimuksia ja yritä uudelleen.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILED_PAYMENT_DISABLED">
+        <source>Sorry, the selected company isn’t accepting ZoroPay right now . Please select the “Pay in vehicle” option instead.</source>
+        <target>Pahoittelumme. Kyseinen taksiyhtiö ei vastaanota ZoroPay-maksuja. Käytä vaihtoehtoa “Maksa autossa”.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILED_PREAUTH_FAILED">
+        <source>Sorry, there appears to be an issue with your registered credit card. Please register another card or check with your card provider.</source>
+        <target>Pahoittelumme. Käyttämäsi luottokortin kanssa on ongelma. Selvitä asia luottokorttiyhtiössä tai rekisteröi toinen kortti.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILED_TITLE">
+        <source>Booking Failed</source>
+        <target>Tilaus epäonnistui</target>
+        <note>Booking Failed</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGREGIONFAILED_BODY">
+        <source>Address is not within the taxi company's service area. Please select a different company or address.</source>
+        <target>Osoite ei ole taksiyhtiön toiminta-alueella. Valitse toinen osoite.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_CALLFAILED_BODY">
+        <source>This device is not able to make phone calls.</source>
+        <target>Tällä laitteella ei voi soittaa.</target>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_CALLFAILED_TITLE">
+        <source>Unable to Call</source>
+        <target>Ei voi soittaa</target>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_DRP_OFF_MAND_BODY">
+        <source>Destination is required to provide a fare estimate</source>
+        <target>Kohdeosoite tarvitaan hinta-arviota varten</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_EMAILWRONGFORMAT_BODY">
+        <source>Email Address is not in the correct format, email@example.com</source>
+        <target>Sähköpostiosoite pitää olla oikeassa muodossa, posti@yritys.fi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_EMPTYFIELD_BODY">
+        <source>Please complete the required fields.</source>
+        <target>Täytä vaaditut kentät.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_LOGINFAILED_BODY">
+        <source>Login has failed. Please try again later.</source>
+        <target>Kirjautuminen epäonnistui. Yritä myöhemmin uudelleen.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_LOGINFAILED_TITLE">
+        <source>Login Failed</source>
+        <target>Kirjautuminen epäonnistui</target>
+        <note>Login Failed</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_MISSINGADDRESS_TITLE">
+        <source>Missing Address</source>
+        <target>Puuttuva osoite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_MOBILEACCOUNT_BODY">
+        <source>DDS_ALERT_MOBILEACCOUNT_BODY</source>
+        <target>Tarkista tilisi numero ja yritä uudelleen. Varmista myös että tililläsi voi tehdä mobiilitilauksia.</target>
+        <note>Please check your account number and try again. Also your account must be set to allow mobile bookings.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_MOBILEACCOUNT_TITLE">
+        <source>DDS_ALERT_MOBILEACCOUNT_TITLE</source>
+        <target>Tilin asetukset</target>
+        <note>Account Setup</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_MUL_BOOKING_BODY">
+        <source>You already have a trip booked for this pick-up address.
+Please cancel your previous trip, before booking this trip.</source>
+        <target>Sinulla on jo tilaus olemassa tähän nouto-osoitteeseen.
+Ole hyvä ja poista aikaisempi tilaus ennen uuden luomista.</target>
+        <note>You already booked a taxi on this address. Please cancel the previous job before booking another trip.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_MUL_BOOKING_TITLE">
+        <source>Duplicate Trip</source>
+        <target>Tuplatilaus</target>
+        <note>Duplicate Trip</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_NOACCOUNT_BODY">
+        <source>DDS_ALERT_NOACCOUNT_BODY</source>
+        <target>Syötä tilin numero &amp; PIN-koodi tilausta tehdessäsi.</target>
+        <note>Please enter an account number &amp; PIN when booking a taxi.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_NOACCOUNT_TITLE">
+        <source>DDS_ALERT_NOACCOUNT_TITLE</source>
+        <target>Tili puuttuu</target>
+        <note>Account Error</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_NONZOROPAY_SUCCESSFUL_1">
+        <source>Please pay your driver before exiting.</source>
+        <target>Maksa kuljettajalle ennen autosta poistumista.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_NONZOROPAY_SUCCESSFUL_2">
+        <source>We look forward to your next trip.</source>
+        <target>Tervetuloa uudelleen.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_PHONENUMBERTOOSHORT_BODY">
+        <source>Phone number cannot be shorter than 10 digits.</source>
+        <target>Puhelinnumero ei voi olla alle 10 numeroa pitkä.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_REFRESH_JOB_FAILED_BODY">
+        <source>Failed to get server response. Please try again later</source>
+        <target>Ei yhteyttä palvelimeen. Yritä myöhemmin uudelleen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_REFRESH_JOB_FAILED_TITLE">
+        <source>Refresh booking status failed</source>
+        <target>Tilauksen tilan päivitys epäonnistui</target>
+        <note>Service Unavailable</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_SERVER_UNAV_ERROR">
+        <source>System timeout. Please try again later.</source>
+        <target>Järjestelmän aikakatkaisu. Yritä myöhemmin uudelleen.</target>
+        <note>System timeout. Please try again later.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_SERVICEUNAVAILABLE_TITLE">
+        <source>Service Unavailable</source>
+        <target>Ei yhteyttä palveluun</target>
+        <note>Service Unavailable</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_SMS_VERIFICATION_INVALID">
+        <source>Please enter the correct verification code.</source>
+        <target>Syötä oikea vahvistukoodi.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_SMS_VERIFIED">
+        <source>Verified</source>
+        <target>Vahvistettu</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_SMS_VERIFIED_REGISTER">
+        <source>Thank you for signing up.
+Now let's get you a cab!</source>
+        <target>Kiitos rekisteröitymisestä.
+Nyt haetaan sinulle vapaa taksi!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ZOROPAY_FAILED_1">
+        <source>Please pay your driver before exiting.</source>
+        <target>Maksa kuljettajalle ennen autosta poistumista.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ZOROPAY_FAILED_2">
+        <source>ZoroPay transaction failed.</source>
+        <target>ZoroPay-maksu epäonnistui.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ZOROPAY_FOOTER">
+        <source>Thank you for choosing Zoro.</source>
+        <target>Kiitos että valitsit Zoron!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ZOROPAY_SUCCESSFUL_1">
+        <source>%@ was charged to card *%@.</source>
+        <target>%@ veloitettiin luottokortilta *%@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_ZOROPAY_SUCCESSFUL_2">
+        <source>Your receipt has been emailed.</source>
+        <target>Kuitti saapuu sähköpostilla.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_About">
+        <source>About</source>
+        <target>Tietoja</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Any_Type">
+        <source>Any type</source>
+        <target>Kaikki tyypit</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_BOOKING_SUMMARY">
+        <source>My trip</source>
+        <target>Tilaukseni</target>
+        <note>My trip</note>
+      </trans-unit>
+      <trans-unit id="DDS_BOOK_AGAIN">
+        <source>Book again</source>
+        <target>Tilaa uudelleen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_BOOK_SUMMARY_DESTINATION">
+        <source>Enter destination for fare estimate</source>
+        <target>Kirjoita kohde hinta-arvion laskemiseksi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Booking">
+        <source>Booking</source>
+        <target>Tilaus</target>
+        <note>Booking</note>
+      </trans-unit>
+      <trans-unit id="DDS_CALL_COMPANY">
+        <source>Call cab company</source>
+        <target>Soita taksiyhtiöön</target>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_CHANGED_MIND">
+        <source>Decided to walk, take bus etc.</source>
+        <target>Päätin kävellä, mennä bussilla, tms.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_GRABBED_CAB">
+        <source>Grabbed a cab off the street</source>
+        <target>Sain taksin lennosta</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_OTHER">
+        <source>Other</source>
+        <target>Muu syy</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_BEACH_VOLLEYBALL">
+        <source>My beach volleyball team needs me</source>
+        <target>Sählyjoukkueeni tarvitsee minua</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_BEAR">
+        <source>Being chased by a bear</source>
+        <target>Karhu jahtaa minua</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_CANUCKS">
+        <source>Just got drafted by the Canucks</source>
+        <target>Tulin Jokereiden värväämäksi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_DISPENSARY">
+        <source>Realized my dispensary is closed</source>
+        <target>Lääkevarastoni olikin ehtynyt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_KALE">
+        <source>Off to harvest my kale</source>
+        <target>Lähdin sadonkorjuuhommiin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_LAME">
+        <source>Decided my plan was lame</source>
+        <target>Suunnitelmani oli sittenkin tylsä</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_MICROBREW">
+        <source>Going to open a microbrew instead</source>
+        <target>Päätinkin perustaa pienpanimon</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_NOT_RAINING">
+        <source>It's not raining like I expected</source>
+        <target>Sade ei lopulta tullutkaan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_OVERRATED">
+        <source>Decided having fun is overrated</source>
+        <target>Päätin sittenkin pitää tylsää</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_RANDOM_YOGA_PANTS">
+        <source>Just ripped my yoga pants</source>
+        <target>Joogahousuni repesivät</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_REASONS_TITLE">
+        <source>Why are you canceling?</source>
+        <target>Syy tilauksen perumiseen?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_STOLEN_CAB">
+        <source>Someone just stole my cab!</source>
+        <target>Joku varasti taksini!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_TAKING_TOO_LONG">
+        <source>Cab is taking too long</source>
+        <target>Auton tulo kestää liian kauan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_TESTING">
+        <source>Just testing the app</source>
+        <target>Tämä oli vain testi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CANCEL_TRIP">
+        <source>Cancel Trip</source>
+        <target>Peruuta tilaus</target>
+        <note>Cancel Trip</note>
+      </trans-unit>
+      <trans-unit id="DDS_CC_ADD_CARD">
+        <source>ADD CARD</source>
+        <target>LISÄÄ KORTTI</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CC_ADD_CARD_TITLE">
+        <source>Add card</source>
+        <target>Lisää kortti</target>
+        <note>Add card</note>
+      </trans-unit>
+      <trans-unit id="DDS_CHANGE_NAME">
+        <source>Change name</source>
+        <target>Vaihda nimi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_COMPANIES_AVAILABLE">
+        <source>companies available</source>
+        <target>taksiyhtiötä saatavilla</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_COMPANY_DELETE_PROMPT">
+        <source>Do you want to delete the selected options and preferred company for</source>
+        <target>Haluatko poistaa valitut vaatimukset ja toivotun taksiyhtiön</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_COMPANY_SAVE_PROMPT">
+        <source>Do you want to save the selected options and preferred company for</source>
+        <target>Haluatko tallentaa valitut vaatimukset ja toivotun taksiyhtiön</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CREDIT_CARD_REGISTRATION_ALERT_FAILED">
+        <source>Card registration failed; please try again</source>
+        <target>Luottokortin lisääminen epäonnistui. Yritä uudelleen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_CREDIT_CARD_REGISTRATION_DELETE_PROMPT">
+        <source>Delete card</source>
+        <target>Poista kortti</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Canada">
+        <source>Canada</source>
+        <target>Kanada</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Cancel">
+        <source>CANCEL</source>
+        <target>PERUUTA</target>
+        <note>CANCEL
+   Cancel</note>
+      </trans-unit>
+      <trans-unit id="DDS_City">
+        <source>City</source>
+        <target>Kaupunki</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Company_Tap_Hold_Set_Preference">
+        <source>Tap and hold to set your preferred company and booking options.</source>
+        <target>Pidä sormea painettuna valitaksesi toivotun taksiyhtiön ja vaatimukset.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Company_Tap_Set_Preference">
+        <source>Tap a company to set your preferred company and booking options.</source>
+        <target>Napauta valitaksesi toivomasi taksiyhtiön ja vaatimukset.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Completed">
+        <source>COMPLETED</source>
+        <target>VALMIS</target>
+        <note>COMPLETED</note>
+      </trans-unit>
+      <trans-unit id="DDS_Connecting">
+        <source>Connecting...</source>
+        <target>Yhdistetään...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Copyright_Name">
+        <source>© %d Digital Dispatch Systems Inc.</source>
+        <target>© %d Digital Dispatch Systems Inc.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Credit_Cards">
+        <source>Credit card</source>
+        <target>Luottokortti</target>
+        <note>Credit card</note>
+      </trans-unit>
+      <trans-unit id="DDS_DONE">
+        <source>DONE</source>
+        <target>VALMIS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Destination">
+        <source>DESTINATION</source>
+        <target>KOHDEOSOITE</target>
+        <note>Destination</note>
+      </trans-unit>
+      <trans-unit id="DDS_Dismiss">
+        <source>DISMISS</source>
+        <target>HYLKÄÄ</target>
+        <note>Dismiss</note>
+      </trans-unit>
+      <trans-unit id="DDS_Driver">
+        <source>Driver</source>
+        <target>Kuljettaja</target>
+        <note>Driver</note>
+      </trans-unit>
+      <trans-unit id="DDS_Driver_Tip">
+        <source>Driver tip</source>
+        <target>Palveluraha</target>
+        <note>Driver tip</note>
+      </trans-unit>
+      <trans-unit id="DDS_ENTER_STREET_NUMBER">
+        <source>Please enter a street number</source>
+        <target>Katunumero vaaditaan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ENTER_VALID_ADDRESS">
+        <source>Please enter a valid pickup address</source>
+        <target>Nouto-osoite vaaditaan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Error">
+        <source>Error</source>
+        <target>Virhe</target>
+        <note>Error</note>
+      </trans-unit>
+      <trans-unit id="DDS_Finland">
+        <source>Finland</source>
+        <target>Suomi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_HISTORY_TABLE_404">
+        <source>You don't have any past trips.</source>
+        <target>Sinulla ei ole menneitä tilauksia.</target>
+        <note>You don't have any previous bookings.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Home">
+        <source>Home</source>
+        <target>Koti</target>
+        <note>Home</note>
+      </trans-unit>
+      <trans-unit id="DDS_INCOMPATIBLE_COMPANY">
+        <source>Companies that don't match your criteria</source>
+        <target>Taksiyhtiöt jotka eivät sovi hakuehtoihin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_INTERNETALERT_BODY">
+        <source>Please check that you have a wireless connection and try again.</source>
+        <target>Varmista, että olet yhteydessä Internetiin ja yritä uudelleen.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_INTERNETALERT_TITLE">
+        <source>Connection Error</source>
+        <target>Yhteysvirhe</target>
+        <note>Connection Error</note>
+      </trans-unit>
+      <trans-unit id="DDS_INVALID_ADDRESS">
+        <source>Invalid Address</source>
+        <target>Osoite ei kelpaa</target>
+        <note>Invalid Address</note>
+      </trans-unit>
+      <trans-unit id="DDS_JOBS_HISTORY_DETAILS_CHARGE_TO_CC">
+        <source>(Charged to credit card *%@)</source>
+        <target>(veloitettu luottokortilta *%@)</target>
+      </trans-unit>
+      <trans-unit id="DDS_JOBS_HISTORY_DETAILS_TITLE">
+        <source>Completed trip</source>
+        <target>Valmis tilaus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_JOBS_HISTORY_DETAILS_TITLE_CANCELED">
+        <source>Canceled trip</source>
+        <target>Peruttu tilaus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_JOBS_PREVIOUSBOOKINGS">
+        <source>Past trips</source>
+        <target>Menneet tilaukset</target>
+        <note>Past trips</note>
+      </trans-unit>
+      <trans-unit id="DDS_JOB_EDIT_TABLE_COMPANY_LIST_TITLE">
+        <source>Available companies</source>
+        <target>Saatavilla olevat taksiyhtiöt</target>
+        <note>BOOKING OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="DDS_JOB_EDIT_TABLE_ESTIMAT_FARE">
+        <source>Est.</source>
+        <target>Arvio</target>
+        <note>Est.</note>
+      </trans-unit>
+      <trans-unit id="DDS_JOB_ESTIMATE_DISCLAIMER_BODY">
+        <source>This is an estimate only and the actual amount charged by the cab could vary.</source>
+        <target>Tämä on vain arvio. Tilauksen lopullinen hinta voi vaihdella.</target>
+        <note>This is an estimate only and the actual amount charged by the taxi could vary.</note>
+      </trans-unit>
+      <trans-unit id="DDS_JOB_ESTIMATE_DISCLAIMER_TITLE">
+        <source>Disclaimer</source>
+        <target>Vastuuvapauslauseke</target>
+        <note>Disclaimer</note>
+      </trans-unit>
+      <trans-unit id="DDS_LATER_TRIP_ALERT_MSG">
+        <source>Cab has been delayed due to high demand. Would you like to wait or cancel your trip?</source>
+        <target>Auton saapuminen viivästyy suuren kysynnän vuoksi. Haluatko odottaa vai perua tilauksen?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_LATE_TRIP_ALERT_TITLE">
+        <source>Cab has been delayed</source>
+        <target>Auto myöhästyy</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_LATE_TRIP_WAIT">
+        <source>WAIT</source>
+        <target>ODOTA</target>
+        <note>Wait</note>
+      </trans-unit>
+      <trans-unit id="DDS_LOCKOUT_INQUIRY_EMAIL_SUBJECT">
+        <source>Zoro Access Denied Inquiry</source>
+        <target>Zoro Pääsy kielletty -kysely</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_MESSAGE_DRIVER">
+        <source>Message for driver</source>
+        <target>Viesti kuljettajalle</target>
+        <note>Message for driver</note>
+      </trans-unit>
+      <trans-unit id="DDS_MESSAGE_FROM_DRIVER_TITLE">
+        <source>Message from Driver</source>
+        <target>Viesti kuljettajalta</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Minutes">
+        <source>min</source>
+        <target>min</target>
+        <note>min</note>
+      </trans-unit>
+      <trans-unit id="DDS_My_Places">
+        <source>My places</source>
+        <target>Omat paikat</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NEXT">
+        <source>NEXT</source>
+        <target>SEURAAVA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE">
+        <source>Notification Message</source>
+        <target>Ilmoitus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE_ACCEPTED">
+        <source>Cab is on its way</source>
+        <target>Taksi on matkalla</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE_ARRIVED">
+        <source>Cab has arrived</source>
+        <target>Taksi on saapunut</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE_CANCELED">
+        <source>Trip Canceled</source>
+        <target>Tilaus peruttu</target>
+        <note>Trip Canceled</note>
+      </trans-unit>
+      <trans-unit id="DDS_NOTIFICATION_ALERT_TITLE_NOSHOW">
+        <source>Trip Canceled</source>
+        <target>Tilaus peruttu</target>
+        <note>Trip Canceled</note>
+      </trans-unit>
+      <trans-unit id="DDS_NO_FLEET_AVAILABLE">
+        <source>No cabs available</source>
+        <target>Autoja ei saatavilla</target>
+        <note>No fleet available</note>
+      </trans-unit>
+      <trans-unit id="DDS_NO_FLEET_AVAILABLE_MESSAGE">
+        <source>Zoro is not available in this area.</source>
+        <target>Zoro ei ole käytössä tällä alueella.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NO_FLEET_SNACKBAR_ACTION">
+        <source>GOT IT</source>
+        <target>SELVÄ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NO_LOCATION_SERVICES">
+        <source>Location services are off</source>
+        <target>Sijaintipalvelut ovat pois päältä</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NO_LOCATION_SERVICES_MESSAGE">
+        <source>Your location is used to determine your pickup address and available cabs nearby. Please set location access to 'While Using The App' in Location Services Settings.</source>
+        <target>Sijaintiasi käytetään nouto-osoitteen ja lähimpien autojen määrittämiseen. Avaa sijaintipalvelut ja salli sijainnin käyttö Käytettäessä appia.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NO_MATCHING_COMPANY">
+        <source>No matching taxi company.
+Try selecting fewer booking options.</source>
+        <target>Sopivaa taksiyhtiötä ei saatavilla.
+Vähennä tilauksen vaatimuksia.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_NO_RESULTS_FOUND">
+        <source>No results were found for</source>
+        <target>Tuloksia ei löytynyt haulla</target>
+        <note>No results were found for</note>
+      </trans-unit>
+      <trans-unit id="DDS_No">
+        <source>NO</source>
+        <target>EI</target>
+      </trans-unit>
+      <trans-unit id="DDS_None">
+        <source>Message for driver</source>
+        <target>Viesti kuljettajalle</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Now">
+        <source>Now</source>
+        <target>Nyt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>OK</note>
+      </trans-unit>
+      <trans-unit id="DDS_Open_Settings">
+        <source>Open Settings</source>
+        <target>Avaa asetukset</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Options">
+        <source>Options</source>
+        <target>Asetukset</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_PICK_ME_UP_HERE">
+        <source>PICK ME UP HERE</source>
+        <target>NOUDA MINUT TÄÄLTÄ</target>
+      </trans-unit>
+      <trans-unit id="DDS_PLACES_404">
+        <source>You don't have any places.</source>
+        <target>Ei tallennettuja paikkoja.</target>
+        <note>You don't have any places.</note>
+      </trans-unit>
+      <trans-unit id="DDS_PRIVATE_POLICY">
+        <source>Privacy Policy</source>
+        <target>Tietosuojakäytäntö</target>
+      </trans-unit>
+      <trans-unit id="DDS_PRIVATE_POLICY_APP_NAME_HOLDER">
+        <source>{name of app}</source>
+        <target>{name of app}</target>
+      </trans-unit>
+      <trans-unit id="DDS_PRIVATE_POLICY_CONTENT">
+        <source>  This privacy policy covers information that you give to Digital Dispatch Limited Partnership as you use the {name of app} app.
+  The {name of app} app prompts you to voluntarily provide information such as your name, mobile phone number, address(es), and/or GPS position(s).
+  Digital Dispatch Limited Partnership shares this information with {name of taxi dispatching company} for the purpose of identifying you and dispatching a taxi to your location.
+  This information could also be used by {name of taxi dispatching company} to generate trip statistics reports and/or for marketing purposes.
+  By using the {name of app} app, you consent to the disclosure and use of this information as set out above, and you agree to be bound by the Google Terms of Service located at http://www.google.com/accounts/TOS.
+  The {name of app} app uses the Google Maps API. To see the Google Privacy Policy, visit http://www.google.com/privacy.html.
+
+</source>
+        <target>  Tietosuojakäytäntö kattaa kaiken diipadaapan mikä mua nyt sattuu tällä hetkellä kiinnostamaan. Kukaan ei tätä tekstiä kuitenkaan ikinä lue, joten on aivan yhdentekevää mitä ryönää tähän {name of app} appiin tuotan.
+ {name of app} app vaatii sulta sadan prosentin osuuden testamenttiisi ja omistusoikeuden myös kaikkiin ajatuksiisi ja luomiisi juttuloihin.
+  Digital Dispatch Limited Partnership ja sen alla sinua riistävä {name of taxi dispatching company} vaativat tiedon siitä missä ikinä milloinkin liikutkin.
+  Tällä tiedolla pyritään riistämään sinulta kaikki rahat ja {name of taxi dispatching company} aikoo vielä lähettää läjäpäin roskapostia sinulle.
+  Kun käytät {name of app} appista, uskoudut kaikilta osin Googlen ylivaltaan ja kaikkeen mitä sen Terms of Service kuvaa osoitteessa http://www.google.com/accounts/TOS.
+  {name of app} app käyttää Google Kartta APIa ja Korkeasaaren apinoita. Jos haluat nähdä Google Privacy Policyn ja kuvittelet siitä jotain ymmärtäväsi, vieraile osoitteessa http://www.google.com/privacy.html.
+
+</target>
+      </trans-unit>
+      <trans-unit id="DDS_PRIVATE_POLICY_TAXI_COMPANY_HOLDER">
+        <source>{name of taxi dispatching company}</source>
+        <target>{name of taxi dispatching company}</target>
+      </trans-unit>
+      <trans-unit id="DDS_PROFILE">
+        <source>PROFILE</source>
+        <target>PROFIILI</target>
+      </trans-unit>
+      <trans-unit id="DDS_PickupLocation">
+        <source>PICKUP LOCATION</source>
+        <target>NOUTO-OSOITE</target>
+        <note>Pickup Location</note>
+      </trans-unit>
+      <trans-unit id="DDS_Preference">
+        <source>Preference</source>
+        <target>Toivomus</target>
+      </trans-unit>
+      <trans-unit id="DDS_Preferred">
+        <source> PREFERRED </source>
+        <target> TOIVOTTU </target>
+        <note>Preferred</note>
+      </trans-unit>
+      <trans-unit id="DDS_Profile">
+        <source>Profile</source>
+        <target>Profiili</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Province_State">
+        <source>Province/State</source>
+        <target>Provinssi/Osavaltio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_QUICK_ACTION_TAKE_ME_HOME_SUBTITLE">
+        <source>from current location</source>
+        <target>nykyisestä sijainnista</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_QUICK_ACTION_TAKE_ME_HOME_TITLE">
+        <source>Take me Home</source>
+        <target>Vie minut kotiin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_QUICK_ACTION_TAKE_TO_WORK_SUBTITLE">
+        <source>from current location</source>
+        <target>nykyisestä sijainnista</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_QUICK_ACTION_TAKE_TO_WORK_TITLE">
+        <source>Take me to Work</source>
+        <target>Vie minut töihin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_RECEIPT_AUTHORIZATION">
+        <source>Authorization # %@</source>
+        <target>Valtuutus # %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_REGISTER_INFO_HEADER">
+        <source>Let's get started!
+Create your profile</source>
+        <target>Lähdetään liikkeelle!
+Luo itsellesi profiili</target>
+        <note>Let's get started!\nCreate your profile</note>
+      </trans-unit>
+      <trans-unit id="DDS_REGISTER_SNACKBAR_MESSAGE">
+        <source>You need to sign up before booking your first trip.</source>
+        <target>Sinun täytyy kirjautua ennenkuin voit tehdä tilauksen.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_REGISTER_SNACKBAR_TITLE">
+        <source>GOT IT</source>
+        <target>SELVÄ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_REGISTER_TIP_HEADER">
+        <source>How would you like to tip your driver?</source>
+        <target>Kuinka haluaisit suorittaa palvelumaksun?</target>
+        <note>How would you like to tip your driver</note>
+      </trans-unit>
+      <trans-unit id="DDS_REMOVE">
+        <source>Remove</source>
+        <target>Poista</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_REPLY">
+        <source>REPLY</source>
+        <target>VASTAA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Retry">
+        <source>RETRY</source>
+        <target>UUDESTAAN</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SAVE_HOME">
+        <source>Save as home</source>
+        <target>Tallenna koti</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SAVE_PLACES">
+        <source>Save to my places</source>
+        <target>Tallenna omiin paikkoihin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SAVE_WORK">
+        <source>Save as work</source>
+        <target>Tallenna työ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SEARCHING_ADDRESS_PLS_WAIT">
+        <source>Searching address...</source>
+        <target>Etsitään osoitetta...</target>
+        <note>Searching address...</note>
+      </trans-unit>
+      <trans-unit id="DDS_SEARCH_LOCATION_DESTINATION_ADDRESS">
+        <source>Enter destination</source>
+        <target>Syötä kohdeosoite</target>
+        <note>Enter destination address</note>
+      </trans-unit>
+      <trans-unit id="DDS_SEARCH_LOCATION_PICKUP_ADDRESS">
+        <source>Enter pickup address</source>
+        <target>Syötä nouto-osoite</target>
+        <note>Enter pickup address</note>
+      </trans-unit>
+      <trans-unit id="DDS_SELECT_COMPANY">
+        <source>DDS_SELECT_COMPANY</source>
+        <target>Valitse taksiyhtiö</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SELECT_PREFERRED_COMPANY">
+        <source>Select a preferred company</source>
+        <target>Valitse toivottu taksiyhtiö</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SELECT_VALID_ADDRESS">
+        <source>There is an error in the database for this address.  Please select a nearby address</source>
+        <target>Tässä osoitteessa on virhe tietokannassa. Valitse lähellä oleva osoite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SEND_DRV_MSG_ALERT_MSG_SEND_FAILED">
+        <source>Message to driver failed. Please try again</source>
+        <target>Viestin lähetys kuljettajalle epäonnistui. Yritä myöhemmin uudelleen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SEND_DRV_MSG_ALERT_MSG_SEND_SUCCESS">
+        <source>Message sent to driver successfully</source>
+        <target>Viesti lähetetty kuljettajalle</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SETTINGS_HEADER_PAYMENT">
+        <source>Payment</source>
+        <target>Maksu</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SETTINGS_HEADER_PERSONAL">
+        <source>Profile</source>
+        <target>Profiili</target>
+        <note>PERSONAL INFO</note>
+      </trans-unit>
+      <trans-unit id="DDS_SET_FAV_DESTINATION">
+        <source>Set as destination</source>
+        <target>Aseta kohdeosoitteeksi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SET_FAV_PICKUP">
+        <source>Set as pickup location</source>
+        <target>Aseta nouto-osoitteeksi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_SHOW_ON_MAP">
+        <source>Show on map</source>
+        <target>Näytä kartalla</target>
+      </trans-unit>
+      <trans-unit id="DDS_SIGN_UP">
+        <source>SIGN UP</source>
+        <target>REKISTERÖIDY</target>
+        <note>SIGN UP</note>
+      </trans-unit>
+      <trans-unit id="DDS_SIGN_UP_CAPITALIZED">
+        <source>Sign up</source>
+        <target>Rekisteröidy</target>
+        <note>Sign up</note>
+      </trans-unit>
+      <trans-unit id="DDS_SKIP">
+        <source>SKIP</source>
+        <target>OHITA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Save">
+        <source>SAVE</source>
+        <target>TALLENNA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_TERMS_AND_CONDITIONS">
+        <source>Terms and Conditions</source>
+        <target>Käyttöehdot</target>
+        <note>Terms and Conditions</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRACK_DETAIL_PICKUP_TIME_ASAP">
+        <source>As soon as possible</source>
+        <target>Heti</target>
+        <note>As soon as possible</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRACK_DETAIL_ZOROPAY_CARD_PREFIX">
+        <source>card **** </source>
+        <target>kortti **** </target>
+        <note>card ****</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRACK_TABLE_404">
+        <source>You don't have any future trips.</source>
+        <target>Sinulla ei ole tulevia tilauksia.</target>
+        <note>You don't have any active bookings.</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_ARRIVED">
+        <source>Cab has arrived</source>
+        <target>Auto on saapunut</target>
+        <note>Cab has arrived</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_BOOKED">
+        <source>Booked</source>
+        <target>Tilattu</target>
+        <note>Booked</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_BOOKED_FUTURE_TRIP">
+        <source>Future trip</source>
+        <target>Tuleva tilaus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_BOOKED_TRIP_DETAIL">
+        <source>Finding a cab</source>
+        <target>Etsitään autoa</target>
+        <note>Finding a cab</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_CAB_ON_ITS_WAY">
+        <source>Cab is on its way</source>
+        <target>Auto on tulossa</target>
+        <note>Cab is on its way</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_CANCELLED">
+        <source>Canceled</source>
+        <target>Peruttu</target>
+        <note>CANCELED
+   Canceled</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_DISPATCHED">
+        <source>Dispatched</source>
+        <target>Välitetty</target>
+        <note>Received</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_INSERVICE">
+        <source>Enjoy your trip</source>
+        <target>Turvallista matkaa</target>
+        <note>Enjoy your trip</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_NOTBOOKED">
+        <source>Not Booked</source>
+        <target>Ei tilattu</target>
+        <note>Not Booked</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_UNKNOWN">
+        <source>Unknown</source>
+        <target>Tuntematon</target>
+        <note>Unknown</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIPSTATUS_YOU_HAVE_ARRIVED">
+        <source>You have arrived!</source>
+        <target>Olet perillä!</target>
+        <note>You have arrived!</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIP_DETAIL_TIP_DESCRIPTION">
+        <source>Tip %@%%, minimum %@</source>
+        <target>Palveluraha %@%%, vähintään %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_TRIP_DETAIL_TIP_DESCRIPTION_OVERRIDDEN">
+        <source>Tip %@%%</source>
+        <target>Palveluraha %@%%</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_UK">
+        <source>United Kingdom</source>
+        <target>Yhdistyneet kuningaskunnat</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_US">
+        <source>United States</source>
+        <target>Yhdysvallat</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_VEHICLE_OPTION_UNAVAILABLE">
+        <source>Selected vehicle option is not available</source>
+        <target>Vaatimukset täyttävää ajoneuvoa ei saatavilla</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_VEHICLE_TYPE_UNAVAILABLE">
+        <source>Selected vehicle type is not available</source>
+        <target>Sopivaa ajoneuvoa ei saatavilla</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_VERIFY_YOUR_PHONE">
+        <source>Verify your phone</source>
+        <target>Vahvista puhelinnumerosi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Verification_Alert_Message">
+        <source>A verification SMS message is generated and sent to you at </source>
+        <target>Vahvistuskoodi on lähetetty sinulle SMS viestinä klo </target>
+      </trans-unit>
+      <trans-unit id="DDS_Verification_Instruction">
+        <source>Enter the code sent to</source>
+        <target>Syötä koodi joka lähetettiin numeroon</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Version">
+        <source>Version</source>
+        <target>Versio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_WELCOME_AGREE_MESSAGE">
+        <source>Please agree to the Terms and Conditions to continue.</source>
+        <target>Sinun täytyy hyväksyä käyttöehdot jotta voit jatkaa.</target>
+        <note>Please agree to the Terms and Conditions to continue</note>
+      </trans-unit>
+      <trans-unit id="DDS_WELCOME_DISAGREE_MESSAGE">
+        <source>You must agree to the Terms and Conditions to continue using Zoro.</source>
+        <target>Sinun täytyy hyväksyä käyttöehdot jotta voit käyttää Zoroa.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_Work">
+        <source>Work</source>
+        <target>Työ</target>
+        <note>Work</note>
+      </trans-unit>
+      <trans-unit id="DDS_Yes">
+        <source>YES</source>
+        <target>KYLLÄ</target>
+      </trans-unit>
+      <trans-unit id="DDS_ZOROPAY_TOOLTIP">
+        <source>Give this code to your driver when entering the cab.
+
+Your ZoroCode ensures your payment matches your trip.</source>
+        <target>Anna tämä koodi kuljettajalle kun astut autoon.
+
+Tämä ZoroKoodi liittää tilauksen ja maksun toisiinsa.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ZoroPay">
+        <source>ZoroPay</source>
+        <target>ZoroPay</target>
+      </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <target>Ladataan...</target>
+        <note>Default DejalActivtyView label text</note>
+      </trans-unit>
+      <trans-unit id="OPTION_CHILD_SEAT">
+        <source>Child seat</source>
+        <target>Lasten istuin</target>
+        <note>Child seat</note>
+      </trans-unit>
+      <trans-unit id="OPTION_LUGGAGE">
+        <source>Luggage</source>
+        <target>Matkalaukku</target>
+        <note>Luggage</note>
+      </trans-unit>
+      <trans-unit id="OPTION_PET_FRIENDLY">
+        <source>Pet-friendly</source>
+        <target>Lemmikkiystävällinen</target>
+        <note>Pet-friendly</note>
+      </trans-unit>
+      <trans-unit id="TYPES_NA_SEDAN">
+        <source>Sedan</source>
+        <target>Henkilöauto</target>
+        <note>Sedan</note>
+      </trans-unit>
+      <trans-unit id="TYPES_NA_VAN">
+        <source>Van</source>
+        <target>Tila-auto</target>
+        <note>Van</note>
+      </trans-unit>
+      <trans-unit id="TYPES_NA_WHEELCHAIR">
+        <source>Wheelchair</source>
+        <target>Esteetön</target>
+        <note>Wheelchair</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_4_SEATER">
+        <source>4 seater</source>
+        <target>4-paikkainen</target>
+        <note>4 seater</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_5_SEATER">
+        <source>5 seater</source>
+        <target>5-paikkainen</target>
+        <note>5 seater</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_6_SEATER">
+        <source>6 seater</source>
+        <target>6-paikkainen</target>
+        <note>6 seater</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_7_SEATER">
+        <source>7 seater</source>
+        <target>7-paikkainen</target>
+        <note>7 seater</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_8_SEATER">
+        <source>8 seater</source>
+        <target>8-paikkainen</target>
+        <note>8 seater</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_ESTATE">
+        <source>Estate</source>
+        <target>Farmari</target>
+        <note>Estate</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_EXECUTIVE">
+        <source>Executive</source>
+        <target>Luksus</target>
+        <note>Executive</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_MPV">
+        <source>MPV</source>
+        <target>Tila-auto</target>
+        <note>MPV</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_SALOON">
+        <source>Saloon</source>
+        <target>Henkilöauto</target>
+        <note>Saloon</note>
+      </trans-unit>
+      <trans-unit id="TYPES_UK_WHEELCHAIR">
+        <source>Wheelchair</source>
+        <target>Pyörätuoli</target>
+        <note>Wheelchair</note>
+      </trans-unit>
+      <trans-unit id="ZoroPay_Charge_To">
+        <source>ZoroPay</source>
+        <target>ZoroPay</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ZoroPay_Pay_In_Vehicle">
+        <source>Pay in vehicle</source>
+        <target>Maksa autossa</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MobileBookerGeneric-Info.plist" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>Zoro</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>${PRODUCT_NAME}</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>3.2.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MobileBookerGenericTests/Info.plist" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MobileBookerGenericTests/Localizable.strings" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILEDACC_BODY">
+        <source>DDS_ALERT_BOOKINGFAILEDACC_BODY</source>
+        <note>Invalid PIN Number. Please try again.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_BOOKINGFAILED_TITLE">
+        <source>DDS_ALERT_BOOKINGFAILED_TITLE</source>
+        <note>Booking Failed</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_LISTFAILED_BODY">
+        <source>DDS_ALERT_LISTFAILED_BODY</source>
+        <note>Unable to retrieve your previous bookings.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_LISTFAILED_TITLE">
+        <source>DDS_ALERT_LISTFAILED_TITLE</source>
+        <note>Listing Failed</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_LOGINFAILED_BODY">
+        <source>DDS_ALERT_LOGINFAILED_BODY</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_LOGINFAILED_TITLE">
+        <source>DDS_ALERT_LOGINFAILED_TITLE</source>
+        <note>Login Failed</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_MOBILEACCOUNT_BODY">
+        <source>DDS_ALERT_MOBILEACCOUNT_BODY</source>
+        <note>Please check your account number and try again. Also your account must be set to allow mobile bookings.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_MOBILEACCOUNT_TITLE">
+        <source>DDS_ALERT_MOBILEACCOUNT_TITLE</source>
+        <note>Account Setup</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_NOACCOUNT_BODY">
+        <source>DDS_ALERT_NOACCOUNT_BODY</source>
+        <note>Please enter an account number &amp; PIN when booking a taxi.</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_NOACCOUNT_TITLE">
+        <source>DDS_ALERT_NOACCOUNT_TITLE</source>
+        <note>Account Error</note>
+      </trans-unit>
+      <trans-unit id="DDS_ALERT_SERVICEUNAVAILABLE_TITLE">
+        <source>DDS_ALERT_SERVICEUNAVAILABLE_TITLE</source>
+        <note>Service Unavailable</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MobileBookerGenericUITests/Info.plist" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
