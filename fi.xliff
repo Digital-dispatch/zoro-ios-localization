@@ -13,7 +13,7 @@
     <body>
       <trans-unit id="1uc-S3-f1X.text">
         <source>Zoro is the service that drives a better ride-hailing experience.</source>
-        <target>Zoro edistää kokemusta paremmasta taksipalvelusta.</target>
+        <target>Zoro tekee kyydin tilaamisesta helppoa ja nopeaa.</target>
         <note>Class = "UILabel"; text = "Zoro is the service that drives a better ride-hailing experience."; ObjectID = "1uc-S3-f1X";</note>
       </trans-unit>
       <trans-unit id="3kt-TD-fkg.accessibilityLabel">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="hyZ-dI-EKn.text">
         <source>Zoro works across service areas and with multiple transportation providers.</source>
-        <target>Zoro toimii monilla välitysalueilla ja useissa taksiyhtiöissä.</target>
+        <target>Zoro toimii laajalla alueella ja tavoittaa useita kuljetusten tarjoajia.</target>
         <note>Class = "UILabel"; text = "Zoro works across service areas and with multiple transportation providers."; ObjectID = "hyZ-dI-EKn";</note>
       </trans-unit>
       <trans-unit id="mrD-Kr-VEr.accessibilityLabel">
