@@ -13,7 +13,7 @@
     <body>
       <trans-unit id="1uc-S3-f1X.text">
         <source>Zoro is the service that drives a better ride-hailing experience.</source>
-        <target>Zoro edistää kokemusta paremmasta taksipalvelusta.</target>
+        <target>Zoro edistää kokemusta paremmasta palvelusta.</target>
         <note>Class = "UILabel"; text = "Zoro is the service that drives a better ride-hailing experience."; ObjectID = "1uc-S3-f1X";</note>
       </trans-unit>
       <trans-unit id="3kt-TD-fkg.accessibilityLabel">
