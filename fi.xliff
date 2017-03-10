@@ -749,10 +749,12 @@
     <body>
       <trans-unit id="QQN-NM-UWm.text">
         <source>|</source>
+        <target>|</target>
         <note>Class = "UILabel"; text = "|"; ObjectID = "QQN-NM-UWm";</note>
       </trans-unit>
       <trans-unit id="dUM-RW-sxJ.text">
         <source>|</source>
+        <target>|</target>
         <note>Class = "UILabel"; text = "|"; ObjectID = "dUM-RW-sxJ";</note>
       </trans-unit>
     </body>
@@ -967,26 +969,32 @@
     <body>
       <trans-unit id="9k8-lW-CPF.text">
         <source>This change is only applied to your current trip.</source>
+        <target>Tämä muutos koskee vain nykyistä kyytiä.</target>
         <note>Class = "UILabel"; text = "This change is only applied to your current trip."; ObjectID = "9k8-lW-CPF";</note>
       </trans-unit>
       <trans-unit id="VcL-Ts-u8g.text">
         <source>Percentage</source>
+        <target>Prosentti</target>
         <note>Class = "UILabel"; text = "Percentage"; ObjectID = "VcL-Ts-u8g";</note>
       </trans-unit>
       <trans-unit id="XFn-ND-BOL.text">
         <source>%</source>
+        <target>%</target>
         <note>Class = "UILabel"; text = "%"; ObjectID = "XFn-ND-BOL";</note>
       </trans-unit>
       <trans-unit id="Z2j-kQ-e5I.normalTitle">
         <source>CANCEL</source>
+        <target>PERUUTA</target>
         <note>Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Z2j-kQ-e5I";</note>
       </trans-unit>
       <trans-unit id="aDe-zH-Gb1.normalTitle">
         <source>CONFIRM</source>
+        <target>VAHVISTA</target>
         <note>Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "aDe-zH-Gb1";</note>
       </trans-unit>
       <trans-unit id="egf-Co-dSF.text">
         <source>Change driver tip</source>
+        <target>Muuta kuljettajan tippiä</target>
         <note>Class = "UILabel"; text = "Change driver tip"; ObjectID = "egf-Co-dSF";</note>
       </trans-unit>
     </body>
@@ -1093,14 +1101,17 @@
     <body>
       <trans-unit id="NDf-Mn-yQn.normalTitle">
         <source>TRACK</source>
+        <target>SEURAA</target>
         <note>Class = "UIButton"; normalTitle = "TRACK"; ObjectID = "NDf-Mn-yQn";</note>
       </trans-unit>
       <trans-unit id="UFE-jc-DIx.text">
         <source>ZoroCode</source>
+        <target>ZoroKoodi</target>
         <note>Class = "UILabel"; text = "ZoroCode"; ObjectID = "UFE-jc-DIx";</note>
       </trans-unit>
       <trans-unit id="lfI-Q3-Kgp.normalTitle">
         <source>?</source>
+        <target>?</target>
         <note>Class = "UIButton"; normalTitle = "?"; ObjectID = "lfI-Q3-Kgp";</note>
       </trans-unit>
     </body>
