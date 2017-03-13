@@ -13,7 +13,7 @@
     <body>
       <trans-unit id="1uc-S3-f1X.text">
         <source>Zoro is the service that drives a better ride-hailing experience.</source>
-        <target>Zoro edistää kokemusta paremmasta taksipalvelusta.</target>
+        <target>Zoro tekee kyydin tilaamisesta helppoa ja nopeaa.</target>
         <note>Class = "UILabel"; text = "Zoro is the service that drives a better ride-hailing experience."; ObjectID = "1uc-S3-f1X";</note>
       </trans-unit>
       <trans-unit id="3kt-TD-fkg.accessibilityLabel">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="EnI-ux-0FK.title">
         <source>Preferred companies</source>
-        <target>Toivotut taksiyhtiöt</target>
+        <target>Toivotut yritykset</target>
         <note>Class = "UINavigationItem"; title = "Preferred companies"; ObjectID = "EnI-ux-0FK";</note>
       </trans-unit>
       <trans-unit id="ITY-c4-aAb.text">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="UWq-5q-1nY.text">
         <source>Available with participating transportation providers</source>
-        <target>Saatavilla osallistuvissa taksiyhtiöissä</target>
+        <target>Saatavilla palveluun liittyneiltä kuljetusten tarjoajilta</target>
         <note>Class = "UILabel"; text = "Available with participating transportation providers"; ObjectID = "UWq-5q-1nY";</note>
       </trans-unit>
       <trans-unit id="Xl5-UK-zbc.accessibilityLabel">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="ZFo-S4-7sS.text">
         <source>Arrive at your destination and simply exit the vehicle</source>
-        <target>Saavuttuasi kohteeseen voit vain nousta autosta</target>
+        <target>Saavuttuasi kohteeseen sinun tarvitsee vain nousta autosta</target>
         <note>Class = "UILabel"; text = "Arrive at your destination and simply exit the vehicle"; ObjectID = "ZFo-S4-7sS";</note>
       </trans-unit>
       <trans-unit id="a8t-WO-Fgw.text">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="ejN-VH-OSH.text">
         <source>Get in and out faster with automatic payment</source>
-        <target>Automaattimaksu mahdollistaa nopeamman taksin käytön</target>
+        <target>Hoida kyydin laskutus automaattisella maksulla</target>
         <note>Class = "UILabel"; text = "Get in and out faster with automatic payment"; ObjectID = "ejN-VH-OSH";</note>
       </trans-unit>
       <trans-unit id="hZe-zh-vY6.normalTitle">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="hyZ-dI-EKn.text">
         <source>Zoro works across service areas and with multiple transportation providers.</source>
-        <target>Zoro toimii monilla välitysalueilla ja useissa taksiyhtiöissä.</target>
+        <target>Zoro toimii laajalla alueella ja tavoittaa useita kuljetusten tarjoajia.</target>
         <note>Class = "UILabel"; text = "Zoro works across service areas and with multiple transportation providers."; ObjectID = "hyZ-dI-EKn";</note>
       </trans-unit>
       <trans-unit id="mrD-Kr-VEr.accessibilityLabel">
@@ -226,7 +226,7 @@
       </trans-unit>
       <trans-unit id="grK-23-2OK.text">
         <source>Company</source>
-        <target>Taksiyhtiö</target>
+        <target>Yritys</target>
         <note>Class = "UILabel"; text = "Company"; ObjectID = "grK-23-2OK";</note>
       </trans-unit>
       <trans-unit id="i15-3B-fjy.normalTitle">
@@ -318,7 +318,7 @@
     <body>
       <trans-unit id="3jb-ZR-eFu.text">
         <source>Charged to</source>
-        <target>Charged to</target>
+        <target>Veloitetaan</target>
         <note>Class = "UILabel"; text = "Charged to"; ObjectID = "3jb-ZR-eFu";</note>
       </trans-unit>
       <trans-unit id="Ny8-wd-pm1.text">
@@ -328,27 +328,27 @@
       </trans-unit>
       <trans-unit id="ObV-XE-LXT.text">
         <source>Total</source>
-        <target>Total</target>
+        <target>Yhteensä</target>
         <note>Class = "UILabel"; text = "Total"; ObjectID = "ObV-XE-LXT";</note>
       </trans-unit>
       <trans-unit id="Uu6-0l-g54.text">
         <source>Payment</source>
-        <target>Payment</target>
+        <target>Maksu</target>
         <note>Class = "UILabel"; text = "Payment"; ObjectID = "Uu6-0l-g54";</note>
       </trans-unit>
       <trans-unit id="Xsk-QR-Nmp.text">
         <source>Extra</source>
-        <target>Extra</target>
+        <target>Lisä</target>
         <note>Class = "UILabel"; text = "Extra"; ObjectID = "Xsk-QR-Nmp";</note>
       </trans-unit>
       <trans-unit id="ejX-Vn-3qT.text">
         <source>Fare</source>
-        <target>Fare</target>
+        <target>Hinta</target>
         <note>Class = "UILabel"; text = "Fare"; ObjectID = "ejX-Vn-3qT";</note>
       </trans-unit>
       <trans-unit id="moU-AE-Cg4.text">
         <source>Tip</source>
-        <target>Tip</target>
+        <target>Tippi</target>
         <note>Class = "UILabel"; text = "Tip"; ObjectID = "moU-AE-Cg4";</note>
       </trans-unit>
     </body>
@@ -475,7 +475,7 @@
       </trans-unit>
       <trans-unit id="Eth-Vf-Let.text">
         <source>Hail a ride immediately or book in advance</source>
-        <target>Löydä taksi heti tai tilaa etukäteen</target>
+        <target>Tilaa kyyti heti tai varaa kyyti etukäteen</target>
         <note>Class = "UILabel"; text = "Hail a ride immediately or book in advance"; ObjectID = "Eth-Vf-Let";</note>
       </trans-unit>
       <trans-unit id="Xgx-aR-9Xg.text">
@@ -490,7 +490,7 @@
       </trans-unit>
       <trans-unit id="eyk-2q-Zwt.text">
         <source>Request a ride</source>
-        <target>Tilaa taksi</target>
+        <target>Tilaa kyyti</target>
         <note>Class = "UILabel"; text = "Request a ride"; ObjectID = "eyk-2q-Zwt";</note>
       </trans-unit>
       <trans-unit id="s0I-jF-Xji.text">
@@ -512,7 +512,7 @@
       </trans-unit>
       <trans-unit id="4TC-ju-zPJ.text">
         <source>Arrive at your destination and simply exit the vehicle</source>
-        <target>Saavuttuasi kohteeseen voit heti nousta autosta</target>
+        <target>Saavuttuasi kohteeseen sinun tarvitsee vain nousta autosta</target>
         <note>Class = "UILabel"; text = "Arrive at your destination and simply exit the vehicle"; ObjectID = "4TC-ju-zPJ";</note>
       </trans-unit>
       <trans-unit id="8hX-nU-EbK.text">
@@ -522,7 +522,7 @@
       </trans-unit>
       <trans-unit id="9xd-Qf-Y74.text">
         <source>Available with participating transportation providers</source>
-        <target>Käytössä mukana olevissa taksiyhtiöissä</target>
+        <target>Saatavilla palveluun liittyneiltä kuljetusten tarjoajilta</target>
         <note>Class = "UILabel"; text = "Available with participating transportation providers"; ObjectID = "9xd-Qf-Y74";</note>
       </trans-unit>
       <trans-unit id="53b-mA-5ky.text">
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit id="T3X-Ca-dLG.text">
         <source>Give the driver your ZoroCode when entering the vehicle</source>
-        <target>Anna ZoroKoodi kuljettajallesi kun nouset taksiin</target>
+        <target>Anna ZoroKoodi kuljettajalle kun astut autoon</target>
         <note>Class = "UILabel"; text = "Give the driver your ZoroCode when entering the vehicle"; ObjectID = "T3X-Ca-dLG";</note>
       </trans-unit>
       <trans-unit id="YrM-F9-ZWV.text">
@@ -591,7 +591,7 @@
       </trans-unit>
       <trans-unit id="iav-NQ-B38.text">
         <source>Select the date and time to be picked up</source>
-        <target>Määrittele noutopäivä ja -aika</target>
+        <target>Määrittele noutoaika ja -päivä</target>
         <note>Class = "UILabel"; text = "Select the date and time to be picked up"; ObjectID = "iav-NQ-B38";</note>
       </trans-unit>
       <trans-unit id="ibU-9M-qWV.text">
@@ -611,7 +611,7 @@
       </trans-unit>
       <trans-unit id="v7Q-j4-3Fs.text">
         <source>Choose your options</source>
-        <target>Valitse varusteet</target>
+        <target>Valitse varusteesi</target>
         <note>Class = "UILabel"; text = "Choose your options"; ObjectID = "v7Q-j4-3Fs";</note>
       </trans-unit>
       <trans-unit id="xnV-zI-ZuC.text">
@@ -643,7 +643,7 @@
       </trans-unit>
       <trans-unit id="WsD-Ty-I7d.text">
         <source>Pay in the vehicle with cash or card</source>
-        <target>Maksa taksissa joko kortilla tai käteisellä</target>
+        <target>Maksa autossa joko kortilla tai käteisellä</target>
         <note>Class = "UILabel"; text = "Pay in the vehicle with cash or card"; ObjectID = "WsD-Ty-I7d";</note>
       </trans-unit>
       <trans-unit id="h2a-m4-67M.text">
@@ -737,7 +737,7 @@
       </trans-unit>
       <trans-unit id="jJz-Ek-p9Z.text">
         <source>Preferred company &amp; options</source>
-        <target>Toivottu taksiyhtiö &amp; vaatimukset</target>
+        <target>Toivottu yritys &amp; vaatimukset</target>
         <note>Class = "UILabel"; text = "Preferred company &amp; options"; ObjectID = "jJz-Ek-p9Z";</note>
       </trans-unit>
     </body>
@@ -749,10 +749,12 @@
     <body>
       <trans-unit id="QQN-NM-UWm.text">
         <source>|</source>
+        <target>|</target>
         <note>Class = "UILabel"; text = "|"; ObjectID = "QQN-NM-UWm";</note>
       </trans-unit>
       <trans-unit id="dUM-RW-sxJ.text">
         <source>|</source>
+        <target>|</target>
         <note>Class = "UILabel"; text = "|"; ObjectID = "dUM-RW-sxJ";</note>
       </trans-unit>
     </body>
@@ -851,12 +853,12 @@
       </trans-unit>
       <trans-unit id="279-sb-Zoa.text">
         <source>Minimum tip allows you to set the minimum amount you will tip, unless you modify it during your trip.</source>
-        <target>Voit lisäksi määritellä palvelumaksun vähimmäismäärän, joka lisätään kaikkiin tilauksiisi. Tätä voi myös muuttaa tilauskohtaisesti</target>
+        <target>Voit lisäksi määritellä palvelurahan vähimmäismäärän, joka lisätään kaikkiin tilauksiisi. Tätä voi myös muuttaa tilauskohtaisesti</target>
         <note>Class = "UILabel"; text = "Minimum tip allows you to set the minimum amount you will tip, unless you modify it during your trip."; ObjectID = "279-sb-Zoa";</note>
       </trans-unit>
       <trans-unit id="A7F-xP-gop.text">
         <source>This tip is automatically applied to all of your trips, unless you modify it during each trip.</source>
-        <target>Palvelumaksu lisätään automaattisesti kaikkiin tilauksiisi. Voit muuttaa sitä myös tilauskohtaisesti.</target>
+        <target>Palveluraha lisätään automaattisesti kaikkiin tilauksiisi. Voit muuttaa sitä myös tilauskohtaisesti.</target>
         <note>Class = "UILabel"; text = "This tip is automatically applied to all of your trips, unless you modify it during each trip."; ObjectID = "A7F-xP-gop";</note>
       </trans-unit>
       <trans-unit id="Frb-TO-k0u.normalTitle">
@@ -908,17 +910,17 @@
       </trans-unit>
       <trans-unit id="NgB-WE-TSb.text">
         <source>Get in and out faster with automatic payment</source>
-        <target>Automaattinen maksu tekee taksin käytöstä nopeampaa</target>
+        <target>Hoida kyydin laskutus automaattisella maksulla</target>
         <note>Class = "UILabel"; text = "Get in and out faster with automatic payment"; ObjectID = "NgB-WE-TSb";</note>
       </trans-unit>
       <trans-unit id="W0p-dK-23q.text">
         <source>Available with participating transportation providers</source>
-        <target>Saatavilla osallistuvissa taksiyhtiöissä</target>
+        <target>Saatavilla palveluun liittyneiltä kuljetusten tarjoajilta</target>
         <note>Class = "UILabel"; text = "Available with participating transportation providers"; ObjectID = "W0p-dK-23q";</note>
       </trans-unit>
       <trans-unit id="X5n-wc-9aL.text">
         <source>Arrive at your destination and simply exit the vehicle</source>
-        <target>Voit poistua taksista heti kun olet perillä</target>
+        <target>Saavuttuasi kohteeseen sinun tarvitsee vain nousta autosta</target>
         <note>Class = "UILabel"; text = "Arrive at your destination and simply exit the vehicle"; ObjectID = "X5n-wc-9aL";</note>
       </trans-unit>
       <trans-unit id="Xua-N5-pF1.normalTitle">
@@ -967,26 +969,32 @@
     <body>
       <trans-unit id="9k8-lW-CPF.text">
         <source>This change is only applied to your current trip.</source>
+        <target>Tämä muutos koskee vain nykyistä kyytiä.</target>
         <note>Class = "UILabel"; text = "This change is only applied to your current trip."; ObjectID = "9k8-lW-CPF";</note>
       </trans-unit>
       <trans-unit id="VcL-Ts-u8g.text">
         <source>Percentage</source>
+        <target>Prosentti</target>
         <note>Class = "UILabel"; text = "Percentage"; ObjectID = "VcL-Ts-u8g";</note>
       </trans-unit>
       <trans-unit id="XFn-ND-BOL.text">
         <source>%</source>
+        <target>%</target>
         <note>Class = "UILabel"; text = "%"; ObjectID = "XFn-ND-BOL";</note>
       </trans-unit>
       <trans-unit id="Z2j-kQ-e5I.normalTitle">
         <source>CANCEL</source>
+        <target>PERUUTA</target>
         <note>Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Z2j-kQ-e5I";</note>
       </trans-unit>
       <trans-unit id="aDe-zH-Gb1.normalTitle">
         <source>CONFIRM</source>
+        <target>VAHVISTA</target>
         <note>Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "aDe-zH-Gb1";</note>
       </trans-unit>
       <trans-unit id="egf-Co-dSF.text">
         <source>Change driver tip</source>
+        <target>Muuta kuljettajan tippiä</target>
         <note>Class = "UILabel"; text = "Change driver tip"; ObjectID = "egf-Co-dSF";</note>
       </trans-unit>
     </body>
@@ -1093,14 +1101,17 @@
     <body>
       <trans-unit id="NDf-Mn-yQn.normalTitle">
         <source>TRACK</source>
+        <target>SEURAA</target>
         <note>Class = "UIButton"; normalTitle = "TRACK"; ObjectID = "NDf-Mn-yQn";</note>
       </trans-unit>
       <trans-unit id="UFE-jc-DIx.text">
         <source>ZoroCode</source>
+        <target>ZoroKoodi</target>
         <note>Class = "UILabel"; text = "ZoroCode"; ObjectID = "UFE-jc-DIx";</note>
       </trans-unit>
       <trans-unit id="lfI-Q3-Kgp.normalTitle">
         <source>?</source>
+        <target>?</target>
         <note>Class = "UIButton"; normalTitle = "?"; ObjectID = "lfI-Q3-Kgp";</note>
       </trans-unit>
     </body>
@@ -1376,7 +1387,7 @@
       <trans-unit id="DDS_ALERT_MUL_BOOKING_BODY">
         <source>You already have a trip booked for this pick-up address.
 Please cancel your previous trip, before booking this trip.</source>
-        <target>Sinulla on jo tilaus olemassa tähän nouto-osoitteeseen.
+        <target>Sinulla on jo voimassaoleva tilaus tähän nouto-osoitteeseen.
 Ole hyvä ja poista aikaisempi tilaus ennen uuden luomista.</target>
         <note>You already booked a taxi on this address. Please cancel the previous job before booking another trip.</note>
       </trans-unit>
@@ -1509,7 +1520,7 @@ Nyt etsitään sinulle kyyti!</target>
       </trans-unit>
       <trans-unit id="DDS_BOOK_SUMMARY_DESTINATION">
         <source>Enter destination for fare estimate</source>
-        <target>Kirjoita kohde hinta-arvion laskemiseksi</target>
+        <target>Anna kohde hinta-arvion laskemiseksi</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_Booking">
@@ -1519,7 +1530,7 @@ Nyt etsitään sinulle kyyti!</target>
       </trans-unit>
       <trans-unit id="DDS_CALL_COMPANY">
         <source>Call transportation provider</source>
-        <target>Soita kuljetuksen tarjoajalle</target>
+        <target>Soita kuljetusten tarjoajalle</target>
       </trans-unit>
       <trans-unit id="DDS_CANCEL_CHANGED_MIND">
         <source>Decided to walk, take bus etc.</source>
@@ -1628,7 +1639,7 @@ Nyt etsitään sinulle kyyti!</target>
       </trans-unit>
       <trans-unit id="DDS_COMMENT_PLACEHOLDER">
         <source>LEAVE A COMMENT</source>
-        <target>JÄTÄ PALAUTE</target>
+        <target>JÄTÄ KOMMENTTI</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_COMPANIES_AVAILABLE">
@@ -2053,7 +2064,7 @@ Luo itsellesi profiili</target>
       </trans-unit>
       <trans-unit id="DDS_REGISTER_SNACKBAR_MESSAGE">
         <source>You need to sign up before booking your first trip.</source>
-        <target>Sinun täytyy kirjautua ennenkuin voit tehdä tilauksen.</target>
+        <target>Sinun täytyy kirjautua ennenkuin voit tilata kyydin.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_REGISTER_SNACKBAR_TITLE">
@@ -2063,7 +2074,7 @@ Luo itsellesi profiili</target>
       </trans-unit>
       <trans-unit id="DDS_REGISTER_TIP_HEADER">
         <source>How would you like to tip your driver?</source>
-        <target>Kuinka haluaisit suorittaa palvelumaksun?</target>
+        <target>Kuinka haluaisit suorittaa palvelurahan?</target>
         <note>How would you like to tip your driver</note>
       </trans-unit>
       <trans-unit id="DDS_REMOVE">
