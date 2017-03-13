@@ -2254,8 +2254,8 @@ Luo itsellesi profiili</target>
       <trans-unit id="DDS_TRIPSTATUS_CANCELLED">
         <source>Canceled</source>
         <target>Peruttu</target>
-        <note>Canceled
-   CANCELED</note>
+        <note>CANCELED
+   Canceled</note>
       </trans-unit>
       <trans-unit id="DDS_TRIPSTATUS_COMPLETED_PLEASE_RATE">
         <source>Please rate</source>
@@ -2367,6 +2367,43 @@ Tämä ZoroKoodi liittää tilauksen ja maksun toisiinsa.</target>
       <trans-unit id="DDS_ZoroPay">
         <source>ZoroPay</source>
         <target>ZoroPay</target>
+      </trans-unit>
+      <trans-unit id="DIALOG_ACTION_UPGRADE_LATER">
+        <source>Later</source>
+        <target>DIALOG_ACTION_UPGRADE_LATER</target>
+        <note>Upgrade later</note>
+      </trans-unit>
+      <trans-unit id="DIALOG_ACTION_UPGRADE_NO">
+        <source>No, thanks</source>
+        <target>DIALOG_ACTION_UPGRADE_NO</target>
+        <note>Upgrade no</note>
+      </trans-unit>
+      <trans-unit id="DIALOG_ACTION_UPGRADE_YES">
+        <source>Upgrade</source>
+        <target>DIALOG_ACTION_UPGRADE_YES</target>
+        <note>Upgrade yes</note>
+      </trans-unit>
+      <trans-unit id="DIALOG_CONTENT_FORCE_UPGRADE">
+        <source>You are using an outdated version.
+Please upgrade to continue using Zoro.</source>
+        <target>DIALOG_CONTENT_FORCE_UPGRADE</target>
+        <note>Force upgrade content</note>
+      </trans-unit>
+      <trans-unit id="DIALOG_CONTENT_REMIND_UPGRADE">
+        <source>A newer version of Zoro is available.
+Would you like to update now?</source>
+        <target>DIALOG_CONTENT_REMIND_UPGRADE</target>
+        <note>Remind upgrade content</note>
+      </trans-unit>
+      <trans-unit id="DIALOG_TITLE_FORCE_UPGRADE">
+        <source>Critical Upgrade</source>
+        <target>DIALOG_TITLE_FORCE_UPGRADE</target>
+        <note>Force upgrade title</note>
+      </trans-unit>
+      <trans-unit id="DIALOG_TITLE_REMIND_UPGRADE">
+        <source>Upgrade Available</source>
+        <target>DIALOG_TITLE_REMIND_UPGRADE</target>
+        <note>Remind upgrade title</note>
       </trans-unit>
       <trans-unit id="Loading...">
         <source>Loading...</source>
