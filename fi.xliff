@@ -1417,8 +1417,8 @@ Ole hyvä ja poista aikaisempi tilaus ennen uuden luomista.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_PHONENUMBERTOOSHORT_BODY">
-        <source>Phone number cannot be shorter than 10 digits.</source>
-        <target>Puhelinnumerossa ei voi olla alle 10 numeroa.</target>
+        <source>Phone number cannot be shorter than %d digits.</source>
+        <target>Puhelinnumerossa ei voi olla alle %d numeroa.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DDS_ALERT_REFRESH_JOB_FAILED_BODY">
@@ -2370,39 +2370,41 @@ Tämä ZoroKoodi liittää tilauksen ja maksun toisiinsa.</target>
       </trans-unit>
       <trans-unit id="DIALOG_ACTION_UPGRADE_LATER">
         <source>Later</source>
-        <target>DIALOG_ACTION_UPGRADE_LATER</target>
+        <target>Myöhemmin</target>
         <note>Upgrade later</note>
       </trans-unit>
       <trans-unit id="DIALOG_ACTION_UPGRADE_NO">
         <source>No, thanks</source>
-        <target>DIALOG_ACTION_UPGRADE_NO</target>
+        <target>Ei kiitos</target>
         <note>Upgrade no</note>
       </trans-unit>
       <trans-unit id="DIALOG_ACTION_UPGRADE_YES">
         <source>Upgrade</source>
-        <target>DIALOG_ACTION_UPGRADE_YES</target>
+        <target>Päivitä</target>
         <note>Upgrade yes</note>
       </trans-unit>
       <trans-unit id="DIALOG_CONTENT_FORCE_UPGRADE">
         <source>You are using an outdated version.
 Please upgrade to continue using Zoro.</source>
-        <target>DIALOG_CONTENT_FORCE_UPGRADE</target>
+        <target>Käytät vanhentunutta versiota.
+Päivitä Zoro jatkaaksesi sen käyttöä.</target>
         <note>Force upgrade content</note>
       </trans-unit>
       <trans-unit id="DIALOG_CONTENT_REMIND_UPGRADE">
         <source>A newer version of Zoro is available.
 Would you like to update now?</source>
-        <target>DIALOG_CONTENT_REMIND_UPGRADE</target>
+        <target>Zorosta on tarjolla uudempi versio.
+Haluatko päivittää sen nyt?</target>
         <note>Remind upgrade content</note>
       </trans-unit>
       <trans-unit id="DIALOG_TITLE_FORCE_UPGRADE">
         <source>Critical Upgrade</source>
-        <target>DIALOG_TITLE_FORCE_UPGRADE</target>
+        <target>Kriittinen päivitys</target>
         <note>Force upgrade title</note>
       </trans-unit>
       <trans-unit id="DIALOG_TITLE_REMIND_UPGRADE">
         <source>Upgrade Available</source>
-        <target>DIALOG_TITLE_REMIND_UPGRADE</target>
+        <target>Päivitys saatavilla</target>
         <note>Remind upgrade title</note>
       </trans-unit>
       <trans-unit id="Loading...">
